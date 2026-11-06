@@ -1,0 +1,18 @@
+{
+  "name": "Vikkypaedia Course on How to Read a Paper",
+  "date": "2026-11-06",
+  "book_topics": 22,
+  "guided_units": 132,
+  "ai_missions": 6,
+  "book_cards": 132,
+  "ai_cards": 8,
+  "total_cards": 140,
+  "book_mcqs": 110,
+  "ai_mcqs": 6,
+  "total_bank_mcqs": 116,
+  "additional_capstone_decisions": 3,
+  "source_sha256": "3c85ea987e5c19645d3cf3d8260e8ab355aff4834dbbf1f89939957c01c0d842",
+  "ai_content_sha256": "95eb5270522d5894d8354e876d3bf8767cca4fa86fa24ddd070e69a8e501eb7b",
+  "refresh_checks_passed": 64,
+  "public_deployment": false
+}

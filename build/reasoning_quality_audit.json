@@ -1,0 +1,107 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "All 110 old book stems replaced",
+      "passed": true
+    },
+    {
+      "name": "116 unique stems and stable unique IDs",
+      "passed": true
+    },
+    {
+      "name": "Five choices and valid keys across bank",
+      "passed": true
+    },
+    {
+      "name": "Five substantive option explanations per item",
+      "passed": true
+    },
+    {
+      "name": "Five items in every book topic",
+      "passed": true
+    },
+    {
+      "name": "Book source references in declared topics",
+      "passed": true
+    },
+    {
+      "name": "Additional cross-topic evidence references valid",
+      "passed": true
+    },
+    {
+      "name": "No all/none-of-the-above answers",
+      "passed": true
+    },
+    {
+      "name": "No source-chapter titles in blind stems",
+      "passed": true
+    },
+    {
+      "name": "No broad answer-length outliers in non-AR items",
+      "passed": true
+    },
+    {
+      "name": "Book keys distributed across five positions",
+      "passed": true
+    },
+    {
+      "name": "Diagnostic posterior: prior .20 and LR 4",
+      "passed": true
+    },
+    {
+      "name": "Risk reduction at baseline .20 with RRR .25",
+      "passed": true
+    },
+    {
+      "name": "Risk reduction at baseline .04 with RRR .25",
+      "passed": true
+    },
+    {
+      "name": "Incremental cost per QALY",
+      "passed": true
+    },
+    {
+      "name": "NNT for ARR .025",
+      "passed": true
+    },
+    {
+      "name": "Recovery additional benefit NNT",
+      "passed": true
+    },
+    {
+      "name": "AI unequal-denominator risk difference",
+      "passed": true
+    },
+    {
+      "name": "Capstone transported absolute benefit",
+      "passed": true
+    },
+    {
+      "name": "Capstone transported NNT",
+      "passed": true
+    }
+  ],
+  "formats": {
+    "Best of five": 70,
+    "Assertion–reason": 23,
+    "Data interpretation": 23
+  },
+  "book_key_distribution": {
+    "A": 22,
+    "B": 22,
+    "C": 22,
+    "D": 22,
+    "E": 22
+  },
+  "uniquely_longest_key_non_ar": 19,
+  "non_ar_count": 93,
+  "semantic_review": "Model author/editor review against source passages. Structural and arithmetic checks do not validate empirical difficulty, distractor functioning, discrimination, or best-answer judgements independently.",
+  "resolved_editorial_issues": [
+    "Removed residual off-domain distractors from the first rewritten draft.",
+    "Replaced two potentially debatable assertion–reason explanatory links.",
+    "Corrected a 24% probability-addition distractor and its explanation.",
+    "Added supporting cross-topic citations for assertion–reason statements.",
+    "Rebuilt AI methods item around assessor blinding with a direct textbook reference."
+  ]
+}

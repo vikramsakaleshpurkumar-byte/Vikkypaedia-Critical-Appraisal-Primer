@@ -1,0 +1,661 @@
+{
+  "num": 17,
+  "source_label": "17",
+  "title": "Papers on artificial intelligence in healthcare",
+  "start": 268,
+  "end": 286,
+  "printed_start": 249,
+  "columns": 1,
+  "group": "Apply and challenge evidence",
+  "page_views": [
+    {
+      "path": "tables/ch017_page0268.jpg",
+      "pdf_page": 268,
+      "printed_page": 249
+    },
+    {
+      "path": "tables/ch017_page0269.jpg",
+      "pdf_page": 269,
+      "printed_page": 250
+    },
+    {
+      "path": "tables/ch017_page0270.jpg",
+      "pdf_page": 270,
+      "printed_page": 251
+    },
+    {
+      "path": "tables/ch017_page0271.jpg",
+      "pdf_page": 271,
+      "printed_page": 252
+    },
+    {
+      "path": "tables/ch017_page0272.jpg",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "path": "tables/ch017_page0273.jpg",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "path": "tables/ch017_page0274.jpg",
+      "pdf_page": 274,
+      "printed_page": 255
+    },
+    {
+      "path": "tables/ch017_page0275.jpg",
+      "pdf_page": 275,
+      "printed_page": 256
+    },
+    {
+      "path": "tables/ch017_page0276.jpg",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "path": "tables/ch017_page0277.jpg",
+      "pdf_page": 277,
+      "printed_page": 258
+    },
+    {
+      "path": "tables/ch017_page0278.jpg",
+      "pdf_page": 278,
+      "printed_page": 259
+    },
+    {
+      "path": "tables/ch017_page0279.jpg",
+      "pdf_page": 279,
+      "printed_page": 260
+    },
+    {
+      "path": "tables/ch017_page0280.jpg",
+      "pdf_page": 280,
+      "printed_page": 261
+    },
+    {
+      "path": "tables/ch017_page0281.jpg",
+      "pdf_page": 281,
+      "printed_page": 262
+    },
+    {
+      "path": "tables/ch017_page0282.jpg",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "path": "tables/ch017_page0283.jpg",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "path": "tables/ch017_page0284.jpg",
+      "pdf_page": 284,
+      "printed_page": 265
+    },
+    {
+      "path": "tables/ch017_page0285.jpg",
+      "pdf_page": 285,
+      "printed_page": 266
+    },
+    {
+      "path": "tables/ch017_page0286.jpg",
+      "pdf_page": 286,
+      "printed_page": 267
+    }
+  ],
+  "pdf_start": 268,
+  "pdf_end": 286,
+  "pages": [
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286
+  ],
+  "printed_end": 267,
+  "paragraphs": [
+    {
+      "text": "Chapter 17",
+      "heading": "Papers on artificial intelligence in healthcare",
+      "pdf_page": 268,
+      "printed_page": 249
+    },
+    {
+      "text": "Introduction",
+      "heading": "Papers on artificial intelligence in healthcare",
+      "pdf_page": 268,
+      "printed_page": 249
+    },
+    {
+      "text": "As we write this (in early 2024), we are on the cusp of an artificial intelligence (AI) revolution in healthcare. The 6th edition of this book, published in 2019, contained nothing at all on AI. The next edition is likely to contain a great deal more. Right now, there is much excitement about the potential for AI, and also warnings about the downsides and risks, but very little empirical evidence. But new studies are appearing at a dizzying rate, and nobody was surprised when the generative AI product ChatGPT (explained later in this chapter) was chosen as The Economist’s word of the year for 2023: ‘This was the year of AI, and not any kind but generative AI, which can churn out text and images with only simple prompts’ [1]. Realising the problem of keeping up to date with the explosion of AI in healthcare research (around 9000 articles in the first 10 weeks of 2024 searching ‘artificial intelligence’ in PubMed), a group of researchers from Kings College, London created an interactive dashboard (the Global Clinical Artificial Intelligence Dashboard: https://aiforhealth.app) ‘to track themes, development maturity, and global equity in clinical artificial intelligence research’ [2]. When we wrote this book, the dashboard already contained thousands of articles, mostly describing AI models in early stages of development, but also some that the authors described as ‘mature’. You might like to check back at that and other dashboards to pick up on new developments. For a balanced introduction to AI in healthcare, we recommend Peter Lee and colleagues’ book The AI Revolution in Healthcare [3]. The authors include a medical doctor and two computer scientists who have been using generative AI for a few years. To whet your appetite for the kind of breakthrough we’re talking about, on page 100 of The AI Revolution in Healthcare, co-author Isaac Kohane (a paediatrician) describes how he was called to a newborn baby with ambiguous genitalia (a tiny penis with hypospadias – the urine",
+      "heading": "Papers on artificial intelligence in healthcare",
+      "pdf_page": 268,
+      "printed_page": 249
+    },
+    {
+      "text": "hole was not right at the tip but some way down – and what looked like a scrotum but no palpable testes). Was this a chromosomal male with underdeveloped genitalia or a chromosomal female who had been androgenised in utero? And what to tell the parents? A fast decision was needed for both medical and social reasons. Kohane put this clinical query into the newly developed GPT-4, an AI digital assistant, which you can now access through an application on your smartphone. Within seconds, he got a response listing several possible diagnoses: congenital adrenal hyperplasia, androgen insensitivity syndrome, gonadal dysgenesis and pituitary or hypothalamic dysfunction. Some of these conditions were feminised boys; others were androgenised girls; some had rare subtypes as well as more common variants. For each option, the digital assistant had suggested some further tests to rule the condition in or out and identify subtypes. To cut a long story short, the suggestions from the digital assistant allowed Kohane to run a focused search of the literature (informed by many of the principles set out in other chapters in this book), send a panel of specialised tests on the infant, and establish a firm (and treatable) diagnosis in the space of a few days. Having whet your appetite with this dramatic but, importantly, anecdotal example of what AI can already contribute to healthcare, we should also introduce some downsides. Lee and colleagues’ book includes some salutary examples of advanced AI’s tendency to ‘hallucinate’; for example, cite papers that don’t exist (which is why you should check any sources!). More generally, AI can be like the clever kid in the class who is not actually as clever as they seem. In a recent paper, anthropologist Lisa Messeri and cognitive scientist Molly Crockett discuss four visions of AI (‘AI as oracle’, ‘AI as arbiter’, ‘AI as quant’ and ‘AI as surrogate’) for researchers to consider before they embed AI tools in their research [4]. They warn that these visions of AI, or cognitive ‘traps’, could amplify incorrect beliefs about the nature of one’s understanding (so called ‘epistemic risk’), highlighting the illusion of explanatory depth (assuming that the explanation produced by AI is more profound than it actually is), the illusion of exploratory breadth (assuming that the AI model has covered all possible hypotheses relevant to the question when it has actually covered only a limited number) and the illusion of objectivity (assuming that the AI model has produced an unbiased ‘view from nowhere’ when in reality it reflects, and may even magnify, the various biases inherent in the published literature on a topic) [4]. You have been warned! In summary, the paper you are reading could be about AI, written by AI, or AI could have read (and summarised) the paper for you. Recently, several papers have been published with random AI-written phrases embedded in the text, like ‘Certainly, here is a possible introduction for your topic’ or ‘In summary, the management of bilateral iatrogenic I’m very sorry, but I don’t",
+      "heading": "Papers on artificial intelligence in healthcare",
+      "pdf_page": 269,
+      "printed_page": 250
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Papers on artificial intelligence in healthcare",
+      "pdf_page": 269,
+      "printed_page": 250
+    },
+    {
+      "text": "have access to real-time information or patient-specific data, as I am an AI language model.’ Obviously, a huge embarrassment – and warning – for authors, peer reviewers and journal editors! Now let’s wind back and take a broader overview of all the different kinds of AI you might come across in a healthcare setting.",
+      "heading": "Papers on artificial intelligence in healthcare",
+      "pdf_page": 270,
+      "printed_page": 251
+    },
+    {
+      "text": "Let’s start with a definition of AI (Table 17.1). AI is intelligence demonstrated by machines. It is also an interdisciplinary field of research that spans, among other disciplines, computer science, psychology, linguistics and philosophy [5]. Professor Nick Bostrom from the University of Oxford (have a listen",
+      "heading": "Chapter 17",
+      "pdf_page": 270,
+      "printed_page": 251
+    },
+    {
+      "text": "Artificial Intelligence (AI) Intelligence demonstrated by machines",
+      "heading": "Chapter 17",
+      "pdf_page": 270,
+      "printed_page": 251
+    },
+    {
+      "text": "AI system A decision support system that incorporates AI (consists of the AI : algorithm and its supporting software and hardware platforms Big data Data characterized by very high volume, velocity and variety requiring special technology and analytical methods to transform it into value. Only a ’volume’ definition has also been proposed: ‘. . .a dataset could be qualified as “big dataset” only if Log(n*p) is superior or equal to 7.’ [10]. The authors list eight properties of big data: great variety, high velocity, challenge on veracity, challenge on all aspects of the workflow, challenge on computational methods, challenge on extracting meaningful information, challenge on sharing data, challenge on finding human experts [10]. ChatGPT Chat Generative Pre-trained Transformer, a commercial digital assistant (accessible via a smartphone app, for example). Includes a free basic version and a more sophisticated version for a monthly fee. Cloud computing The on-demand availability of computing resources (such as storage and infrastructure) over the internet. Computer processing power The ability of a computer to process information or the speed at which it can process information Conversational AI An AI system which engages in an intelligent conversation with a human user Data leakage When information about the test data is ‘leaked’ into the model during training Deep learning A type of machine learning that uses a layered structure of artificial neural networks",
+      "heading": "Chapter 17",
+      "pdf_page": 270,
+      "printed_page": 251
+    },
+    {
+      "text": "(Continued )",
+      "heading": "Chapter 17",
+      "pdf_page": 270,
+      "printed_page": 251
+    },
+    {
+      "text": "Artificial Intelligence (AI) Intelligence demonstrated by machines",
+      "heading": "Chapter 17",
+      "pdf_page": 271,
+      "printed_page": 252
+    },
+    {
+      "text": "Generative AI A subset of AI technologies that generate new content such as text, images, music, speech, video, or code by learning patterns and structure of large amounts training data Intended AI use The use for which an AI system is intended (e.g. targeted medical condition, patient and user populations and use environment) Machine learning A field of computer science involving models/ algorithms which learn patterns from data, rather than being programmed with rules. Large language models (LLMs) AI models that use computational AI algorithms with text data as input to generate language that resembles that produced by humans Large multi-modal models (LMMs) AI models that have the ability to accept one or more type of data inputs (e.g. text, videos, and images) and generate diverse outputs that are not limited to the type of data inputted Reinforcement learning A type of machine learning where an agent learns to interact with an environment by trial and error, based on the idea of rewarding desired behaviors and penalizing undesirable ones. It is a powerful technique for training AI agents to make decisions in complex environments by learning from experience. Examples include optimizing treatment plans (e.g. insulin dosing in diabetes). Supervised learning A type of machine learning where the algorithm is trained on a dataset with labeled examples using (e.g.) linear or logistic regression. These labels provide the correct output or target variable for each input. Examples include spam filtering, image recognition and medical diagnosis. Unsupervised learning A type of machine learning where the algorithm is trained on a dataset without any labels. The algorithm discovers patterns, structures, or relationships in the data using (e.g.) clustering or dimensionality reduction. Examples include disease clustering (e.g. for subtypes of breast cancer), early detection and drug discovery.",
+      "heading": "Chapter 17",
+      "pdf_page": 271,
+      "printed_page": 252
+    },
+    {
+      "text": "to his fascinating TED® talk What happens when our computers get smarter than we are? [6]) described three major levels of AI [7]:",
+      "heading": "Chapter 17",
+      "pdf_page": 271,
+      "printed_page": 252
+    },
+    {
+      "text": "1. Artificial narrow intelligence (ANI) refers to algorithms with excellent pattern recognising abilities in huge data sets. It is useful for solving text, voice or image-based classification and clustering problems. ANI excels at a precisely defined single task (like playing chess).",
+      "heading": "Chapter 17",
+      "pdf_page": 271,
+      "printed_page": 252
+    },
+    {
+      "text": "2. Artificial general intelligence refers to AI applications that can reason, argue, memorise and solve problems. This is what Bostrom calls ‘human level’ AI, in the sense that it displays a cognitive capacity which approximates to that of a human being. 3. Artificial super intelligence refers to AI applications which could theoretically have humanity’s combined cognitive capacity and more!",
+      "heading": "Chapter 17",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Chapter 17",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "text": "In this chapter, we focus on direct medical uses, which include risk prediction, interactive note taking, patient chatbots, clinical decision support, drug discovery, image interpretation, diagnosis and prognosis of disease, identification of treatments and patient–doctor communication (see the systematic review by Kedia et al. [8] for more examples). One major category of AI in healthcare, which we don’t address in this book, is its many administrative functions (for example, speech recognition products which allow you to dictate a letter and see it typed as you speak). From a computational perspective, the diverse medical and healthcare uses of AI can be classified into four broad categories:",
+      "heading": "Chapter 17",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "text": "1. prediction (using historical data to predict the likelihood of future events) 2. classification (e.g. of images into normal or abnormal) 3. association (enhancing prediction by incorporating new knowledge; e.g. identifying new symptoms of disease) 4. optimisation (mostly, administrative tasks) [9].",
+      "heading": "Chapter 17",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "text": "Big data",
+      "heading": "Chapter 17",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "text": "‘Big data’ (see Table 17.1 for defintion) refers to large or complex datasets which it would be impossible to analyse without advanced computer power [11]. As the sheer size of cohort studies and the number of variables to be analysed has increased, calculations can no longer be done on a desktop spreadsheet but require vast computer power. This is why cloud computing and the rapid growth in the ability of computers to process information (computer processing power) are the key drivers of the AI revolution. One example of such a big data platform is OpenSAFELY (https://www. opensafely.org/), a secure analytics platform for NHS electronic health records in the UK. You can read more about it in Nab et al. [12]. A big-data cohort study by the OpenSAFELY collaborative [13] investigated the impact of vaccination on the association of COVID-19 with cardiovascular disease. Defining a ‘prevaccination’ cohort of more than 18,000,000 people, and ‘vaccinated’ and ‘unvaccinated’ cohorts (of 13,572,399 and 3,161,485, respectively), they",
+      "heading": "Chapter 17",
+      "pdf_page": 272,
+      "printed_page": 253
+    },
+    {
+      "text": "concluded that COVID-19 vaccination significantly reduces the risk of cardiovascular events after COVID-19 infection. For an accessible introduction to big data more generally, see the paper by Car and Sheikh [14].",
+      "heading": "Chapter 17",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "text": "Machine learning",
+      "heading": "Chapter 17",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "text": "Artificial intelligence works through machine learning, a field of computer science involving models/algorithms which learn patterns from data, rather than being programmed with rules (Table 17.1). You should be able to identify the type of machine learning used in the paper you are reading: supervised learning, unsupervised learning, reinforcement learning and deep learning. Be sceptical if the authors did not describe the subtype of machine learning or deep learning in detail (see question four below). A comprehensive overview of machine learning is beyond the scope of this chapter. However, you should be aware of the problem of ‘data leakage’ (Table 17.1), which has been long recognised as an important cause of errors in machine learning applications. It leads to inflated model performance and decreased reproducibility. You can read more about it in Kapoor and Narayanan’s paper [15]. If you want to read more, the paper by Meskó and Görög provides an excellent overview of AI for healthcare professionals [5].",
+      "heading": "Chapter 17",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Chapter 17",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "text": "Generative artificial intelligence: large language and multimodal models",
+      "heading": "Chapter 17",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "text": "Generative AI, which we can only cover briefly in this book but which is covered in more detail elsewhere [16], includes large language models (LLMs) [17] and large multimodal models (LMMs) [17,18]; these are all defined in Table 17.1. LLM AI systems use algorithms ‘trained on billions of words derived from articles, books and other [text-based] internet-based content’ [17] to generate language (talk) like humans [17,18]; LMMs do the same but accept many types of data input, including text, images, audio and video (and sometimes other data types such as sensory data). LMMs generate diverse outputs that are not necessarily related to the type of data fed to the algorithm (you could, for example, feed images in and get text back or vice versa) [19,28]. LLMs and LMMs are increasingly used in medicine to retrieve knowledge, support clinical decision-making, summarise key findings, triage patients and so on. If you are interested in how LLMs encode clinical knowledge, including their limitations and suggestions for future research, see the paper by Singhal et al. in Nature [20]. Our PubMed search for the term ‘ChatGPT’ on 16 January 2024 revealed 2167 papers (2060 published in 2023 and 189 in the first 16 days of 2024!). ChatGPT has passed the US Medical License Exam [21],",
+      "heading": "Chapter 17",
+      "pdf_page": 273,
+      "printed_page": 254
+    },
+    {
+      "text": "and is used to answer common patient questions about colonoscopy, for example [22]. LLM-driven chatbots are increasingly used in healthcare, including in medical education, in the resource constrained neuroophthalmic field, for example [23]. Chatbots are also used to provide clinical advice to patients. Because they operate in a conversational format (you ask a question, the LLM replies, you explain why the response isn’t quite what you wanted and so on), LLMs and LMMs can feel like you’re interacting with a human or human-like agent. And because they are designed to find and take account of context rather than focusing only on the inputted text, these models can potentially adapt what they say (and how they say it) to accommodate different patient personalities and levels of health literacy. They can also, potentially, respond in the patient’s preferred language. All this is very exciting: generative AI could potentially overcome some of the brittleness of previous-generation digital health applications and produce fewer punchthe-screen moments. But, at the time of writing, we’re talking mostly about potential rather than actual benefits for patients.",
+      "heading": "Chapter 17",
+      "pdf_page": 274,
+      "printed_page": 255
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Chapter 17",
+      "pdf_page": 274,
+      "printed_page": 255
+    },
+    {
+      "text": "Ethical principles for the use of artificial intelligence for health",
+      "heading": "Chapter 17",
+      "pdf_page": 274,
+      "printed_page": 255
+    },
+    {
+      "text": "What comes out of an AI system depends on how it is built (‘garbage in, garbage out’). If, for example, the designers incorporate (consciously or unconsciously) stereotypical or incorrect assumptions about patients or other users, the responses generated by the models will themselves be biased or misleading. Furthermore, whatever its data processing ability, a machine is still a machine; there are aspects of medicine and healthcare (compassion, comfort, care) which still, arguably, require human input. AI applications are, for the most part, designed to be used by a human who has professional training, not to substitute for that human. For this reason, ethical considerations and human rights must be central to their design, development and implementation. The World Health Organization (WHO) endorsed six key ethical principles for the use of AI for health [24]:",
+      "heading": "Chapter 17",
+      "pdf_page": 274,
+      "printed_page": 255
+    },
+    {
+      "text": "1. Protecting human autonomy. Humans should remain in control of medical decisions and people should understand how AI is used in their care (including how their privacy and confidentiality are protected). 2. Promoting human wellbeing and safety and the public interest. AI should not harm people: the designers of AI technology should comply with regulatory requirements for safety, accuracy and efficacy. 3. Ensuring transparency, explainability and intelligibility. AI technology should be understandable to developers, healthcare professionals, patients, users and regulators ‘according to the capacity of those to whom they are explained’.",
+      "heading": "Chapter 17",
+      "pdf_page": 274,
+      "printed_page": 255
+    },
+    {
+      "text": "4. Fostering responsibility and accountability. Patients and clinicians should evaluate the development and deployment of AI technologies. This should include mechanisms for questioning and for redress for individuals and groups that are adversely affected by decisions based on algorithms. 5. Ensuring inclusiveness and equity. AI for health should be designed ‘to encourage the widest possible appropriate, equitable use and access, irrespective of age, sex, gender, income, race, ethnicity, sexual orientation, ability or other characteristics protected under human rights codes’. AI technologies should not encode biases to the disadvantage of identifiable groups (especially already minoritised groups). 6. Promoting AI that is responsive and sustainable. All AI role players (designers, developers and users) should ‘continuously, systematically and transparently’ assess AI applications during actual use. Two aspects are important for sustainable AI systems. First, their environmental consequences should be minimal. Second, their impact on the workplace, including workplace disruptions, training of healthcare workers and potential job losses, should be addressed by governments and companies.",
+      "heading": "Chapter 17",
+      "pdf_page": 275,
+      "printed_page": 256
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Chapter 17",
+      "pdf_page": 275,
+      "printed_page": 256
+    },
+    {
+      "text": "Guidance on the ethics and governance of LMMs is a complex and expanding topic; see the WHO’s new review if you are interested [19].",
+      "heading": "Chapter 17",
+      "pdf_page": 275,
+      "printed_page": 256
+    },
+    {
+      "text": "Appraising artificial intelligence papers: a plethora of checklists",
+      "heading": "Chapter 17",
+      "pdf_page": 275,
+      "printed_page": 256
+    },
+    {
+      "text": "When can you trust a paper describing an AI intervention, and when can’t you? The APPRAISE-AI tool was developed to evaluate the methodological and reporting quality of 28 clinical AI studies using a quantitative approach [25]. However, it is only one of several such tools in the literature (indeed, a 2022 literature review identified 14 frameworks including 8 providing reporting checklists for medical applications of AI) [26]. We summarise some of the current frameworks in Table 17.2. You should select the specific reporting guideline relevant to the study design of the paper you are appraising; for example, TRIPOD-AI for prediction model studies, STARD-AI for diagnostic accuracy studies and SPIRIT/CONSORT-AI for randomised controlled trials. These AI extensions to current reporting guidelines include additional items to, for example, address potential sources of bias specific to AI systems [27]. Reporting guidelines, although a good starting point when evaluating a paper, should not be used uncritically as quality checklists. As we write this chapter, no reporting standards yet exist for studies that evaluate the performance of LLM-linked chatbots when providing clinical advice. To bridge this gap, a group of researchers are currently developing",
+      "heading": "Chapter 17",
+      "pdf_page": 275,
+      "printed_page": 256
+    },
+    {
+      "text": "Name Stage Study design Comment",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "TRIPOD-AI Preclinical development Prediction model evaluationa Extension of TRIPOD and used to report development, validation and updates of diagnostic and prognostic prediction models (diagnostic or prognostic) STARD-AI Preclinical development, offline validation",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "Extension of STARD and used to report diagnostic accuracy studies DECIDE-AI Early live clinical evaluation Various (prospective cohort studies, non-RCTs, etc.)",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "Diagnostic accuracy studiesa",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "Stand-alone guideline which is used to report the early evaluation of AI systems as an intervention in live clinical settings (guideline used for all study designs and any AI system modality, e.g. diagnostic, prognostic, therapeutic). This guideline focuses on clinical utility, safety, and human factors SPIRIT-AI Comparative prospective evaluation",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "RCTs (protocol) Extension of SPIRIT. Used to report the protocols of randomised controlled trials evaluating AI systems as interventions CONSORT-AI Comparative prospective evaluation",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "RCTsa Extension of CONSORT and used to report large-scale RCTs evaluating AI systems as interventions (for any AI system modality, e.g. diagnostic, prognostic, therapeutic). This guideline focuses on effectiveness and safety CLAIM All AI in medical imaging studies",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "A checklist to guide reporting of AI in medical imaging CHART All studies assessing the use of chatbots in healthcare",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "Studies reporting medical imaginga",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "Chatbot assessment reporting tool (CHART) currently being developed",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "Chatbot assessment studiesa",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "a Primary target of the guidelines (either specific stage or a specific design).",
+      "heading": "Chapter 17",
+      "pdf_page": 276,
+      "printed_page": 257
+    },
+    {
+      "text": "in evaluating the performance of LLM-linked chatbots that summarise health evidence and provide clinical advice [29]. You might want to track that publication in Google Scholar. A further challenge of AI studies is that even when your critical appraisal confirms that the AI study was done rigorously and its findings can be trusted, there is a further question: does the AI technology or intervention work in (clinical) practice? The patients in your clinic may not be comparable to the patient sample on which the algorithm was trained. We can’t reproduce or summarise all the checklists in this chapter, so we have chosen the DECIDE-AI checklist (see Table 17.3) for evaluating AI-based decision support systems. This field poses some methodological challenges (Box 17.1 and Table 17.3) [25]. Most of these challenges are also applicable to other AI studies; for example, how humans and machines ‘collaborate’ while protecting the important ethical principle of human autonomy, and how AI systems could harm (e.g. algorithm bias and data breaches).",
+      "heading": "Chapter 17",
+      "pdf_page": 277,
+      "printed_page": 258
+    },
+    {
+      "text": "Box 17.1 Issues to consider in AI-based decision support systems",
+      "heading": "Chapter 17",
+      "pdf_page": 277,
+      "printed_page": 258
+    },
+    {
+      "text": "• • AI-based decision support systems represent complex interventions. We need to account for the associated complexities and evaluate how these systems integrate within existing healthcare ecosystems. • • People who use AI-based decision support systems vary a lot; this could add biases. We need to account for user variability and the added biases. • • Two forms of intelligence (human and AI system) are collaborating. We therefore need to evaluate human factors. • • AI-based decision support systems involve both physical patients and their data representations. We therefore need to account for patients and their data when evaluating these AI systems. • • AI-based decision support systems represent a interventions that continuously change (either due to early prototyping, version updates, or continuous learning design). We need to account for this complexity and analyse related performance changes. • • AI-based decision support systems could embed and reproduce existing health inequality and systemic biases. We need to evaluate and address these challenges. • • Findings of AI-based decision support system studies might not be relevant for different settings to those studies. We need to estimate the generalisability of findings across different sites and populations. • • AI-based decision support systems represent a field of dynamic innovation and intellectual property protection. We need to evaluate (and enable) reproducibility of the findings in the context of these challenges.",
+      "heading": "Chapter 17",
+      "pdf_page": 277,
+      "printed_page": 258
+    },
+    {
+      "text": "Theme Recommendation",
+      "heading": "Chapter 17",
+      "pdf_page": 278,
+      "printed_page": 259
+    },
+    {
+      "text": "Title Include mention of AI in the title Abstract Provide a structured summary. Introduction Intended use Describe what condition(s) the AI is being used for, the intended patient population, and current standard practice Describe who will use the AI system, how it will fit into the care pathway, and what the anticipated impact will be Objectives State the study objectives Ethics and governance Link to the study protocol and give details of ethics approval Methods Participants Describe how patient participants and users of the AI system were recruited, including what inclusion and exclusion criteria were used (for patients, at both patient and data level), and justify the sample sizes; Describe how users were taught to use the AI system. Al system Describe the AI system (include version and type of underlying algorithm). Describe/ reference the characteristics of the patient population on which the algorithm was trained (and its performance in preclinical development and validation studies) Identify and describe input data. (including how data were acquired and entered, for example) Describe the AI system outputs and how they were presented to users (add image if possible) Implementation Describe the settings in which the AI system was evaluated, including details of clincal workflow, who made actual clinical decisions and how Outcomes Specify primary and any secondary outcomes measured Safety and errors Describe how errors or malfunctions were defined and identified, and how risks to patient safety were identified, analysed and minimised Human factors Describe the human factors tools, methods or frameworks used, the used cases considered, and the users involved Analysis Describe and justify how data were analysed including statistical tests AI ethics Give details of any specific methodologies used to ensure algorithmic fairness or other ethical goal Patient involvement Say how patients were involved in any aspect of the study Results Participants Give details of both the patient population and users of the AI system Implementation Report on how much the AI system was used, whether users adhered to the protocol, and any changes to workflow or care pathway",
+      "heading": "Chapter 17",
+      "pdf_page": 278,
+      "printed_page": 259
+    },
+    {
+      "text": "Theme Recommendation",
+      "heading": "Chapter 17",
+      "pdf_page": 279,
+      "printed_page": 260
+    },
+    {
+      "text": "Main findings Report on the primary and secondary outcomes, with subgroup analyses if appropriate Modifications Report on any changes made to the AI platform or its hardware throughout the study Human-computer agreement Report on how closely the human user agreed with the AI system’s recommendations and explain and comment on instances of disagreement Safety and errors List and comment on significant errors or malfunctions, including how common they were, whether they could be corrected and impacts on patient care. Report on any risks or harms to patients, including indirect harm. Human factors Report on the usability evaluation (perhaps using a recognised framework for this) Discussion Conclusions about intended use Discuss whether the study results support the intended use of the AI system in clinical settings Safety and errors Discuss the implications of the safety profile of the AI system, including the extent to which limitations might be mitigated Strengths and limitations Discuss the strengths and limitations of the study",
+      "heading": "Chapter 17",
+      "pdf_page": 279,
+      "printed_page": 260
+    },
+    {
+      "text": "Statements Data availability Say what data are available (including code) to others Disclosures Disclose any conflicts of interest (e.g. commercial interests)",
+      "heading": "Chapter 17",
+      "pdf_page": 279,
+      "printed_page": 260
+    },
+    {
+      "text": "In preparing these ten questions, we have drawn on several AI quality tools and reporting guidelines—mostly the CONSORT-AI [30] and DECIDE-AI [28] extensions. The questions focus on studies on decision support systems driven by AI.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 279,
+      "printed_page": 260
+    },
+    {
+      "text": "Question one: What is the intended use of the AI system, and who are the intended users? Based on this, is the AI system relevant to your patients and practice? As we mentioned in Chapter 8, this is the ‘so what’ question, or the clinical utility of the AI system. What are the targeted medical condition(s) (e.g. breast cancer) and associated problem(s) (e.g. reducing false-positive screens and increase breast cancer detection rates), current standard practice, and the intended patient population? Who are the intended users of the AI system and how could it be integrated in their care pathways? For example, radiologists",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 279,
+      "printed_page": 260
+    },
+    {
+      "text": "breast cancer screening programmes [31]. How might the AI system improve on current standard practice? If so, would you or your patient(s) use it in preference to existing solutions/systems?",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 280,
+      "printed_page": 261
+    },
+    {
+      "text": "Question two: Is it clear what type of AI study is reported in the paper? Does the paper, for example, report a clinical trial, diagnostic accuracy study or prediction model study? As mentioned above, the applications of AI (in general and in healthcare) are broadly grouped into one or a combination of four capabilities: prediction (e.g. the risk of a person developing a specific health outcome), classification (e.g. presence of absence of a disease), association (e.g. drug discovery or new risk factors for a specific health condition) and optimisation (e.g. administrative tasks).",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 280,
+      "printed_page": 261
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 280,
+      "printed_page": 261
+    },
+    {
+      "text": "Question three: Who participated in the study (patients and users)? Here, you should consider three important aspects: the patients on which the AI algorithm was trained, the users of the AI system and how users were familiarised with the AI system. First, considering patients, it should be clear from the manuscript who the patients were on which the AI algorithm was trained: how patients were recruited, including sample size and inclusion and exclusion criteria at both patient and data level. For example, at patient level a participant could meet all inclusion criteria but still be excluded from the study due to incomplete or poor quality of the data. Second, as AI systems are complex interventions, it is important to consider how the interaction between users and the AI system influenced overall AI system performance and study results. This is similar to surgical innovation studies where both patient and operator characteristics are important and should be reported [32]. Finally, how users were familiarised with the AI system should help you to anticipate how much time and work might be required for the AI system to be used reliably and with confidence in your own practice. Look for a training protocol, the type and number of training and practice sessions delivered, and training materials (as supplementary information). Finally, look for the baseline characteristics of the patients included in the AI system dataset and the users of the AI system in the study.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 280,
+      "printed_page": 261
+    },
+    {
+      "text": "Question four: What AI system was used in this study? First, look for a concise description of the AI system, especially its version, the underlying algorithm, supporting hardware, and software (if relevant). You can usually find this in the methods section of the paper. Do not expect a full description of the AI algorithm or mathematical model in the paper, it could be complicated! Rather, if you are mathematically inclined, look for references (either published or in an open science repository or as supplementary material) to the development and validation studies of the algorithm. Here, you should find information on the components of the",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 280,
+      "printed_page": 261
+    },
+    {
+      "text": "the development/validation studies, the performance metrics used and the study results. A description of the supporting hardware might give you an indication of the benefits and limitations of the platform in your own clinical setting. Also look for specific algorithmic thresholds used in the study (e.g. cut-off set to not exceed a specific false positive rate). Second, identify the data used as inputs for the AI system. How did the research team acquire the data? What method was used to input the data into the AI system? What preprocessing was applied and how were missing or low-quality data handled? Finally, look for a description of the AI system outputs and how they were presented to the users. The human-computer interface (specifically how information is displayed) is important for how users will interact with the AI system [33].",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 281,
+      "printed_page": 262
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 281,
+      "printed_page": 262
+    },
+    {
+      "text": "Question five: What are the clinical setting(s) and clinical workflow/pathway in which the AI system was evaluated? You need to know whether the settings and conditions of the study are representative of the AI system’s intended use. How the AI system has been integrated in the clinical workflow/care pathway (including the clinical decisions made using the AI system) is important. Anchoring bias, a form of cognitive bias [34], is possible when users see the AI system recommendations at the same time as they receive other information on which clinical decision-making is based (so called ‘concurrent reading mode’). In second reading mode, users see the AI system recommendations after they have made the decision about a case, and re-evaluate their initial decision based on the new AI system information. Authors should report any significant changes to the clinical workflow or care pathways caused by the AI system.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 281,
+      "printed_page": 262
+    },
+    {
+      "text": "Question six: Were possible errors, including algorithm and use errors (and malfunctions of the supporting software/hardware) defined, described and reported? Did the authors describe their approach to mitigate safety concerns or patient harm? Did the authors report and discuss any safety concerns or instances of harm? Errors and malfunctions impact patient safety and could harm patients. Three main categories of errors and malfunctions should be considered (look for this in the methods section of the paper) and reported in the results section (e.g. rate, causes and impact on patient care of AI system errors/malfunctions):",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 281,
+      "printed_page": 262
+    },
+    {
+      "text": "1. algorithm errors (e.g. the AI system did not detect all cancers in women’s digital mammograms [35]) 2. malfunction of the supporting software or hardware (e.g. the AI system failed to produce a recommendation due to data extraction issue) 3. errors involving users (e.g. clinician input inaccurate patient details or",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 281,
+      "printed_page": 262
+    },
+    {
+      "text": "Safety assessment is a continuous process which occurs before, during and after a clinical study as new risks or harms might be uncovered after AI system implementation in clinical settings. AI system researchers should describe their risk management process in the methods section of the paper and report and discuss any observed risks to patient safety or instances of harm in the results and discussion sections of the paper. Authors should report any changes made to the AI system during the study.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "text": "Question seven: How did the authors deal with human factors? Human factors (also called ergonomics) can make or break AI systems in healthcare. Here, the aim is to describe and understand the interactions among humans and the AI system, including factors like situation awareness, workload and automation bias. Authors should consider AI system evaluation (preclinical and ongoing while used in clinical settings), the clinical context and specific AI system, and usability (using validated tools to evaluate, for example, workload, display interface or user satisfaction). You can read more about human factors and ergonomics principles for healthcare AI in this paper [36].",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "text": "Question eight: What is the approach to ethical use of the AI system? This question relates to the key ethical principles discussed earlier in this chapter (and to question six above). Did the authors report and describe how they worked to detect, quantify and mitigate bias in the AI system’s algorithmic outputs (e.g. through algorithmic fairness: adjustments in an attempt to correct for bias). Therefore, algorithmic bias in AI systems could harm groups that are already underrepresented and marginalised [37].",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "text": "Question nine: Did the authors share the code and data used to train and validate their AI system? As noted above, explainability of any AI system is very important. The authors should share the code and data used to train and validate their AI system. Bonus points to the authors if they annotated their code to explain what each bit does to allow the reader to follow regardless of their background. Ideally, you should be able to easily generate plots, charts and matrices that tell you all about the data’s metrics, by running the algorithm. Good papers that are transparent about their code and data will let you do this.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "text": "Question ten: What kind of collaborative model between authors was used to build the AI system? Who performed the research? Was it a diverse team of AI scientists, clinicians and patient partners, for example, to counteract the risk of ‘monocultures of knowing and knowers’ referred to earlier in this chapter [4]? While this could",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 282,
+      "printed_page": 263
+    },
+    {
+      "text": "form an idea: were clinicians involved in building the AI tool if it’s aimed at clinical care (not just testing it, but building it! Here, Yosra Mekki argues that clinicians should build their own AI models [38]). Do the authors explain to what extent clinicians and patient partners, for example, were involved in the project? (And not just a tokenistic checklist tick of the ‘collaboration’ box). Did the authors discuss how they supported clear communication between team members of different backgrounds? This reflects on model quality.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "text": "Chapter 17",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "text": "Summary",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "text": "In summary, before we use an AI system to inform our clinical decisions, we should ask two over-arching questions. First, ‘What is the accuracy, reliability, and validity of the AI system in diagnosing or making a recommendation for my patient’s specific condition and context?’ And second, ‘How well has the AI system been tested against diverse patient populations and various clinical scenarios?’ We should understand the limitations and potential biases of an AI system – AI systems can only supplement but not replace a healthcare professional’s expertise and contextual praxis. A well-informed clinician would consider the results from such technologies within the context of the science, and the individual patient’s personal circumstances.",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "text": "Exercises based on this chapter",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "text": "1. Listen to the NEJM-AI podcast by Dr Ziad Obermeyer [39]. Discuss the complex issues of bias, safety and generalisability of medical AI. How do siloed and inaccessible data amplify these AI challenges? Why should clinicians and AI researchers collaborate to develop AI systems for healthcare? 2. Take a look at the paper by Wong et al. [40], who used a big-data ‘deep learning’ approach to discover a new class of antibiotic. Why do you think this innovation was not possible before the advent of advanced computer power? To what extent do you think AI can help us keep ahead of antimicrobial resistance? 3. According to this paper, machine learning may outperform conventional statistical methods to predict next-season athlete injuries [41]. What are the challenges of applying machine learning to predict a future health condition? Is machine learning always better than conventional statistical models such as logistic regression? 4. A US-based classification algorithm for melanoma diagnosis [42] was trained on images of skin lesions in mainly light-skinned patients and then used on images of lesions among African-American patients [43]. How did the system perform? Referring to the WHO’s six key ethical principles for the use of AI for health [24], what would you do to ensure ethical and",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 283,
+      "printed_page": 264
+    },
+    {
+      "text": "5. Review the paper ‘The role of artificial intelligence in early cancer diagnosis’ [44]. Now, search PubMed and find an artificial intelligence paper on a topic of your choice. What was the health condition that the AI system targeted? What type of AI algorithm did the researchers use in the paper? (artificial neural network, deep neural network, convolutional neural network, recurrent neural network etc.). Could you describe the problemsolving approach that the AI algorithm followed (classification, regression etc.)? What was the source of data used to develop the AI algorithm? Was the data source representative or could the AI algorithm be biased? 6. Read this paper on the use of AI to predict whether a person is at risk of ventricular arrhythmia [45]. What type of machine learning did the researchers use? Could you use such an AI system in your practice?",
+      "heading": "Ten questions to ask about a paper that reports AI studies in healthcare",
+      "pdf_page": 284,
+      "printed_page": 265
+    },
+    {
+      "text": "1. Johnson. Our word of the year for 2023. The Economist 7 December 2023. https://www.economist.com/culture/2023/12/07/our-word-of-the-year-for-2023 (accessed 9 December 2023). 2. Zhang J, Whebell S, Gallifant J, et al. An interactive dashboard to track themes, development maturity, and global equity in clinical artificial intelligence research. Lancet Digital Health. 2022; 4: e212–3. 3. Lee P, Goldberg C, Kohane I. The AI Revolution in Medicine: GPT-4 and beyond. Hoboken, NJ: Pearson; 2023. 4. Messeri L, Crockett MJ. Artificial intelligence and illusions of understanding in scientific research. Nature 2024; 627: 49–58. 5. Meskó B, Görög M. A short guide for medical professionals in the era of artificial intelligence. npj Digital Medicine 2020; 3: 126. 6. Bostrom N. What happens when our computers get smarter than we are? TED March 2015. https://www.ted.com/talks/nick_bostrom_what_happens_when_ our_computers_get_smarter_than_we_are (accessed 8 March 2024). 7. Bostrom N. Superintelligence: Paths, dangers, strategies. New York, NY: Oxford University Press; 2014. 8. Kedia N, Sanjeev S, Ong J, et al. ChatGPT and Beyond: An overview of the growing field of large language models and their use in ophthalmology. Eye 2024; 38: 1252–61. 9. De Silva D, Alahakoon D. An artificial intelligence life cycle: from conception to production. Patterns 2022; 3: 100489. 10. Baro E, Degoul S, Beuscart R, et al. Toward a literature-driven definition of big data in healthcare. BioMed Research International 2015; 2015: 639021. 11. Dhindsa K, Bhandari M, Sonnadara RR. What’s holding up the big data revolution in healthcare? BMJ 2018; 363: k5357. 12. Nab L, Schaffer A, Hulme W, et al. OpenSAFELY: a platform for analysing electronic health records designed for reproducible research [preprint]. 3 February 2024 https://doi.org/10.31219/osf.io/hj2sg. 13. Cezard GI, Denholm RE, Knight R, et al. Impact of vaccination on the association",
+      "heading": "References",
+      "pdf_page": 284,
+      "printed_page": 265
+    },
+    {
+      "text": "14. Car J, Sheikh A, Wicks P, et al. Beyond the hype of big data and artificial intelligence: building foundations for knowledge and wisdom. BMC Medicine 2019; 17: 143. 15. Kapoor S, Narayanan A. Leakage and the reproducibility crisis in",
+      "heading": "References",
+      "pdf_page": 285,
+      "printed_page": 266
+    },
+    {
+      "text": "machine-learning-based science. Patterns (NY) 2023; 4: 100804. 16. Yu P, Xu H, Hu X, et al. Leveraging generative AI and large language models: a comprehensive roadmap for healthcare integration. Healthcare (Basel) 2023; 11: 2776. 17. Thirunavukarasu AJ, Ting DSJ, Elangovan K, et al. Large language models in medicine. Nature Medicine 2023; 29: 1930–40. 18. Clusmann J, Kolbinger FR, Muti HS, et al. The future landscape of large language models in medicine. Communications Medicine 2023; 3 :141. 19. World Health Organization. WHO releases AI ethics and governance guidance for large multi-modal models. https://www.who.int/news/item/18-01-2024-whoreleases-ai-ethics-and-governance-guidance-for-large-multi-modal-models (accessed 21 January 2024). 20. Singhal K, Azizi S, Tu T, et al. Large language models encode clinical knowledge. Nature 2023; 620: 172–80. 21. Kung TH, Cheatham M, Medenilla A, et al. Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models. PLOS Digital Health. 2023; 2: e0000198. 22. Lee T-C, Staller K, Botoman V, et al. ChatGPT Answers common patient questions about colonoscopy. Gastroenterology 2023; 165: 509-511.e7. 23. Waisberg E, Ong J, Masalkhi M, et al. Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education. Eye 2024; 38: 639–41. 24. World Health Organization. Ethics and Governance of Artificial Intelligence for Health. WHO Guidance. Geneva: WHO; 2021. 25. Kwong JCC, Khondker A, Lajkosz K, et al. APPRAISE-AI Tool for quantitative evaluation of ai studies for clinical decision support. JAMA Network Open 2023; 6: e2335377. 26. Crossnohere NL, Elsaid M, Paskett J, et al. Guidelines for artificial intelligence in medicine: literature review and content analysis of frameworks. Journal of Medical Internet Research 2022; 24: e36823. 27. Nagendran M, Chen Y, Lovejoy CA, et al. Artificial intelligence versus clinicians: systematic review of design, reporting standards, and claims of deep learning studies. BMJ 2020; 368: m689. 28. Vasey B, Nagendran M, Campbell B, et al. Reporting guideline for the early stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI. BMJ 2022; 377: e070904. 29. Huo B, Cacciamani GE, Collins GS, et al. Reporting standards for the use of large language model-linked chatbots for health advice. Nature Medicine 2023; 29: 2988–2988. 30. Liu X, Rivera SC, Moher D, et al. Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension. BMJ 2020; 370: m3164.",
+      "heading": "References",
+      "pdf_page": 285,
+      "printed_page": 266
+    },
+    {
+      "text": "31. Marinovich ML, Wylie E, Lotter W, et al. Artificial intelligence (AI) for breast cancer screening: BreastScreen population-based cohort study of cancer detection. eBioMedicine 2023; 90: 104498. 32. Hirst A, Philippou Y, Blazeby J, et al. No surgical innovation without evaluation: evolution and further development of the IDEAL framework and recommendations. Annals of Surgery 2019; 269: 211–20. 33. Dudley JJ, Kristensson PO. A review of user interface design for interactive machine learning. ACM Transactions on Interactive Intelligent Systems 2018; 8(2): 1–37. 34. Furnham A, Boo HC. A literature review of the anchoring effect. Journal of Socio-",
+      "heading": "Chapter 17",
+      "pdf_page": 286,
+      "printed_page": 267
+    },
+    {
+      "text": "Economics 2011; 40: 35–42. 35. Freeman K, Geppert J, Stinton C, et al. Use of artificial intelligence for image analysis in breast cancer screening programmes: systematic review of test accuracy. BMJ 2021; 374: n1872. 36. Sujan M, Pool R, Salmon P. Eight human factors and ergonomics principles for healthcare artificial intelligence. BMJ Health and Care Informatics 2022; 29: bmjhci-2021-100516. 37. Aquino YSJ, Carter SM, Houssami N, et al. Practical, epistemic and normative implications of algorithmic bias in healthcare artificial intelligence: a qualitative study of multidisciplinary expert perspectives [published online ahead of print 23 February 2023]. Journal of Medical Ethics 2023. https://doi.org/10.1136/ jme-2022-108850 38. Mekki YM. Physicians should build their own machine-learning models. Patterns 2024; 5:100948. 39. Development P. Manrai A, Beam A, hosts. The double-edged sword of AI, with Dr. Ziad Obermeyer [podcast]. NEJM AI Grand Rounds 27 July 2023. https://aipodcast.nejm.org/e/the-double-edged-sword-of-ai-with-dr-ziad-obermeyer (accessed 1 January 2024). 40. Wong F, Zheng EJ, Valeri JA, et al. Discovery of a structural class of antibiotics with explainable deep learning. Nature 2024; 626: 177–85. 41. Karnuta JM, Luu BC, Haeberle HS, et al. Machine learning outperforms regression analysis to predict next-season major league baseball player injuries: epidemiology and validation of 13,982 player-years from performance and injury profile trends, 2000–2017. Orthopaedic Journal of Sports Medicine 2020; 8: 2325967120963046. 42. Brinker TJ, Hekler A, Enk AH, et al. Deep neural networks are superior to dermatologists in melanoma image classification. European Journal of Cancer 2019; 119: 11–17. 43. Norori N, Hu Q, Aellen FM, et al. Addressing bias in big data and AI for health care: a call for open science. Patterns 2021; 2: 100347. 44. Hunter B, Hindocha S, Lee RW. the role of artificial intelligence in early cancer diagnosis. Cancers (Basel) 2022; 14: 1524. 45. Barker J, Li X, Kotb A, et al. Artificial intelligence for ventricular arrhythmia capability using ambulatory electrocardiograms. European Heart Journal Digital Health 2024; 2024: ztae004.",
+      "heading": "Chapter 17",
+      "pdf_page": 286,
+      "printed_page": 267
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures/ch017_p0277_01.jpg",
+      "caption": "Unmatched source image; PDF page 277. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 277,
+      "printed_page": 258,
+      "chapter": 17
+    }
+  ],
+  "tables": [],
+  "raw_md": "# 17. Papers on artificial intelligence in healthcare\n> Source attribution: [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 268 | printed page 249\n\n### Papers on artificial intelligence in healthcare\n\nChapter 17\n\nIntroduction\n\nAs we write this (in early 2024), we are on the cusp of an artificial intelligence (AI) revolution in healthcare. The 6th edition of this book, published in 2019, contained nothing at all on AI. The next edition is likely to contain a great deal more. Right now, there is much excitement about the potential for AI, and also warnings about the downsides and risks, but very little empirical evidence. But new studies are appearing at a dizzying rate, and nobody was surprised when the generative AI product ChatGPT (explained later in this chapter) was chosen as The Economist’s word of the year for 2023: ‘This was the year of AI, and not any kind but generative AI, which can churn out text and images with only simple prompts’ [1]. Realising the problem of keeping up to date with the explosion of AI in healthcare research (around 9000 articles in the first 10 weeks of 2024 searching ‘artificial intelligence’ in PubMed), a group of researchers from Kings College, London created an interactive dashboard (the Global Clinical Artificial Intelligence Dashboard: https://aiforhealth.app) ‘to track themes, development maturity, and global equity in clinical artificial intelligence research’ [2]. When we wrote this book, the dashboard already contained thousands of articles, mostly describing AI models in early stages of development, but also some that the authors described as ‘mature’. You might like to check back at that and other dashboards to pick up on new developments. For a balanced introduction to AI in healthcare, we recommend Peter Lee and colleagues’ book The AI Revolution in Healthcare [3]. The authors include a medical doctor and two computer scientists who have been using generative AI for a few years. To whet your appetite for the kind of breakthrough we’re talking about, on page 100 of The AI Revolution in Healthcare, co-author Isaac Kohane (a paediatrician) describes how he was called to a newborn baby with ambiguous genitalia (a tiny penis with hypospadias – the urine\n\nHow to Read a Paper: The Basics of Evidence-Based Healthcare, Seventh Edition. Trisha Greenhalgh and Paul Dijkstra. © 2025 John Wiley & Sons Ltd. Published 2025 by John Wiley & Sons Ltd.\n\n\n## PDF page 269 | printed page 250\n\nhole was not right at the tip but some way down – and what looked like a scrotum but no palpable testes). Was this a chromosomal male with underdeveloped genitalia or a chromosomal female who had been androgenised in utero? And what to tell the parents? A fast decision was needed for both medical and social reasons. Kohane put this clinical query into the newly developed GPT-4, an AI digital assistant, which you can now access through an application on your smartphone. Within seconds, he got a response listing several possible diagnoses: congenital adrenal hyperplasia, androgen insensitivity syndrome, gonadal dysgenesis and pituitary or hypothalamic dysfunction. Some of these conditions were feminised boys; others were androgenised girls; some had rare subtypes as well as more common variants. For each option, the digital assistant had suggested some further tests to rule the condition in or out and identify subtypes. To cut a long story short, the suggestions from the digital assistant allowed Kohane to run a focused search of the literature (informed by many of the principles set out in other chapters in this book), send a panel of specialised tests on the infant, and establish a firm (and treatable) diagnosis in the space of a few days. Having whet your appetite with this dramatic but, importantly, anecdotal example of what AI can already contribute to healthcare, we should also introduce some downsides. Lee and colleagues’ book includes some salutary examples of advanced AI’s tendency to ‘hallucinate’; for example, cite papers that don’t exist (which is why you should check any sources!). More generally, AI can be like the clever kid in the class who is not actually as clever as they seem. In a recent paper, anthropologist Lisa Messeri and cognitive scientist Molly Crockett discuss four visions of AI (‘AI as oracle’, ‘AI as arbiter’, ‘AI as quant’ and ‘AI as surrogate’) for researchers to consider before they embed AI tools in their research [4]. They warn that these visions of AI, or cognitive ‘traps’, could amplify incorrect beliefs about the nature of one’s understanding (so called ‘epistemic risk’), highlighting the illusion of explanatory depth (assuming that the explanation produced by AI is more profound than it actually is), the illusion of exploratory breadth (assuming that the AI model has covered all possible hypotheses relevant to the question when it has actually covered only a limited number) and the illusion of objectivity (assuming that the AI model has produced an unbiased ‘view from nowhere’ when in reality it reflects, and may even magnify, the various biases inherent in the published literature on a topic) [4]. You have been warned! In summary, the paper you are reading could be about AI, written by AI, or AI could have read (and summarised) the paper for you. Recently, several papers have been published with random AI-written phrases embedded in the text, like ‘Certainly, here is a possible introduction for your topic’ or ‘In summary, the management of bilateral iatrogenic I’m very sorry, but I don’t\n\nChapter 17\n\n\n## PDF page 270 | printed page 251\n\nhave access to real-time information or patient-specific data, as I am an AI language model.’ Obviously, a huge embarrassment – and warning – for authors, peer reviewers and journal editors! Now let’s wind back and take a broader overview of all the different kinds of AI you might come across in a healthcare setting.\n\n### Artificial intelligence\n\n### Chapter 17\n\nLet’s start with a definition of AI (Table 17.1). AI is intelligence demonstrated by machines. It is also an interdisciplinary field of research that spans, among other disciplines, computer science, psychology, linguistics and philosophy [5]. Professor Nick Bostrom from the University of Oxford (have a listen\n\nTable 17.1 Terminology and definitions\n\nArtificial Intelligence (AI) Intelligence demonstrated by machines\n\nAI system A decision support system that incorporates AI (consists of the AI : algorithm and its supporting software and hardware platforms Big data Data characterized by very high volume, velocity and variety requiring special technology and analytical methods to transform it into value. Only a ’volume’ definition has also been proposed: ‘. . .a dataset could be qualified as “big dataset” only if Log(n*p) is superior or equal to 7.’ [10]. The authors list eight properties of big data: great variety, high velocity, challenge on veracity, challenge on all aspects of the workflow, challenge on computational methods, challenge on extracting meaningful information, challenge on sharing data, challenge on finding human experts [10]. ChatGPT Chat Generative Pre-trained Transformer, a commercial digital assistant (accessible via a smartphone app, for example). Includes a free basic version and a more sophisticated version for a monthly fee. Cloud computing The on-demand availability of computing resources (such as storage and infrastructure) over the internet. Computer processing power The ability of a computer to process information or the speed at which it can process information Conversational AI An AI system which engages in an intelligent conversation with a human user Data leakage When information about the test data is ‘leaked’ into the model during training Deep learning A type of machine learning that uses a layered structure of artificial neural networks\n\n(Continued )\n\n\n## PDF page 271 | printed page 252\n\nTable 17.1 (Continued)\n\nArtificial Intelligence (AI) Intelligence demonstrated by machines\n\nGenerative AI A subset of AI technologies that generate new content such as text, images, music, speech, video, or code by learning patterns and structure of large amounts training data Intended AI use The use for which an AI system is intended (e.g. targeted medical condition, patient and user populations and use environment) Machine learning A field of computer science involving models/ algorithms which learn patterns from data, rather than being programmed with rules. Large language models (LLMs) AI models that use computational AI algorithms with text data as input to generate language that resembles that produced by humans Large multi-modal models (LMMs) AI models that have the ability to accept one or more type of data inputs (e.g. text, videos, and images) and generate diverse outputs that are not limited to the type of data inputted Reinforcement learning A type of machine learning where an agent learns to interact with an environment by trial and error, based on the idea of rewarding desired behaviors and penalizing undesirable ones. It is a powerful technique for training AI agents to make decisions in complex environments by learning from experience. Examples include optimizing treatment plans (e.g. insulin dosing in diabetes). Supervised learning A type of machine learning where the algorithm is trained on a dataset with labeled examples using (e.g.) linear or logistic regression. These labels provide the correct output or target variable for each input. Examples include spam filtering, image recognition and medical diagnosis. Unsupervised learning A type of machine learning where the algorithm is trained on a dataset without any labels. The algorithm discovers patterns, structures, or relationships in the data using (e.g.) clustering or dimensionality reduction. Examples include disease clustering (e.g. for subtypes of breast cancer), early detection and drug discovery.\n\n### Chapter 17\n\nto his fascinating TED® talk What happens when our computers get smarter than we are? [6]) described three major levels of AI [7]:\n\n1. Artificial narrow intelligence (ANI) refers to algorithms with excellent pattern recognising abilities in huge data sets. It is useful for solving text, voice or image-based classification and clustering problems. ANI excels at a precisely defined single task (like playing chess).\n\n\n## PDF page 272 | printed page 253\n\n2. Artificial general intelligence refers to AI applications that can reason, argue, memorise and solve problems. This is what Bostrom calls ‘human level’ AI, in the sense that it displays a cognitive capacity which approximates to that of a human being. 3. Artificial super intelligence refers to AI applications which could theoretically have humanity’s combined cognitive capacity and more!\n\nChapter 17\n\nIn this chapter, we focus on direct medical uses, which include risk prediction, interactive note taking, patient chatbots, clinical decision support, drug discovery, image interpretation, diagnosis and prognosis of disease, identification of treatments and patient–doctor communication (see the systematic review by Kedia et al. [8] for more examples). One major category of AI in healthcare, which we don’t address in this book, is its many administrative functions (for example, speech recognition products which allow you to dictate a letter and see it typed as you speak). From a computational perspective, the diverse medical and healthcare uses of AI can be classified into four broad categories:\n\n1. prediction (using historical data to predict the likelihood of future events) 2. classification (e.g. of images into normal or abnormal) 3. association (enhancing prediction by incorporating new knowledge; e.g. identifying new symptoms of disease) 4. optimisation (mostly, administrative tasks) [9].\n\nTable 17.1 lists some key terminology and definitions.\n\nBig data\n\n‘Big data’ (see Table 17.1 for defintion) refers to large or complex datasets which it would be impossible to analyse without advanced computer power [11]. As the sheer size of cohort studies and the number of variables to be analysed has increased, calculations can no longer be done on a desktop spreadsheet but require vast computer power. This is why cloud computing and the rapid growth in the ability of computers to process information (computer processing power) are the key drivers of the AI revolution. One example of such a big data platform is OpenSAFELY (https://www. opensafely.org/), a secure analytics platform for NHS electronic health records in the UK. You can read more about it in Nab et al. [12]. A big-data cohort study by the OpenSAFELY collaborative [13] investigated the impact of vaccination on the association of COVID-19 with cardiovascular disease. Defining a ‘prevaccination’ cohort of more than 18,000,000 people, and ‘vaccinated’ and ‘unvaccinated’ cohorts (of 13,572,399 and 3,161,485, respectively), they\n\n\n## PDF page 273 | printed page 254\n\nconcluded that COVID-19 vaccination significantly reduces the risk of cardiovascular events after COVID-19 infection. For an accessible introduction to big data more generally, see the paper by Car and Sheikh [14].\n\nMachine learning\n\nArtificial intelligence works through machine learning, a field of computer science involving models/algorithms which learn patterns from data, rather than being programmed with rules (Table 17.1). You should be able to identify the type of machine learning used in the paper you are reading: supervised learning, unsupervised learning, reinforcement learning and deep learning. Be sceptical if the authors did not describe the subtype of machine learning or deep learning in detail (see question four below). A comprehensive overview of machine learning is beyond the scope of this chapter. However, you should be aware of the problem of ‘data leakage’ (Table 17.1), which has been long recognised as an important cause of errors in machine learning applications. It leads to inflated model performance and decreased reproducibility. You can read more about it in Kapoor and Narayanan’s paper [15]. If you want to read more, the paper by Meskó and Görög provides an excellent overview of AI for healthcare professionals [5].\n\nChapter 17\n\nGenerative artificial intelligence: large language and multimodal models\n\nGenerative AI, which we can only cover briefly in this book but which is covered in more detail elsewhere [16], includes large language models (LLMs) [17] and large multimodal models (LMMs) [17,18]; these are all defined in Table 17.1. LLM AI systems use algorithms ‘trained on billions of words derived from articles, books and other [text-based] internet-based content’ [17] to generate language (talk) like humans [17,18]; LMMs do the same but accept many types of data input, including text, images, audio and video (and sometimes other data types such as sensory data). LMMs generate diverse outputs that are not necessarily related to the type of data fed to the algorithm (you could, for example, feed images in and get text back or vice versa) [19,28]. LLMs and LMMs are increasingly used in medicine to retrieve knowledge, support clinical decision-making, summarise key findings, triage patients and so on. If you are interested in how LLMs encode clinical knowledge, including their limitations and suggestions for future research, see the paper by Singhal et al. in Nature [20]. Our PubMed search for the term ‘ChatGPT’ on 16 January 2024 revealed 2167 papers (2060 published in 2023 and 189 in the first 16 days of 2024!). ChatGPT has passed the US Medical License Exam [21],\n\n\n## PDF page 274 | printed page 255\n\nand is used to answer common patient questions about colonoscopy, for example [22]. LLM-driven chatbots are increasingly used in healthcare, including in medical education, in the resource constrained neuroophthalmic field, for example [23]. Chatbots are also used to provide clinical advice to patients. Because they operate in a conversational format (you ask a question, the LLM replies, you explain why the response isn’t quite what you wanted and so on), LLMs and LMMs can feel like you’re interacting with a human or human-like agent. And because they are designed to find and take account of context rather than focusing only on the inputted text, these models can potentially adapt what they say (and how they say it) to accommodate different patient personalities and levels of health literacy. They can also, potentially, respond in the patient’s preferred language. All this is very exciting: generative AI could potentially overcome some of the brittleness of previous-generation digital health applications and produce fewer punchthe-screen moments. But, at the time of writing, we’re talking mostly about potential rather than actual benefits for patients.\n\nChapter 17\n\nEthical principles for the use of artificial intelligence for health\n\nWhat comes out of an AI system depends on how it is built (‘garbage in, garbage out’). If, for example, the designers incorporate (consciously or unconsciously) stereotypical or incorrect assumptions about patients or other users, the responses generated by the models will themselves be biased or misleading. Furthermore, whatever its data processing ability, a machine is still a machine; there are aspects of medicine and healthcare (compassion, comfort, care) which still, arguably, require human input. AI applications are, for the most part, designed to be used by a human who has professional training, not to substitute for that human. For this reason, ethical considerations and human rights must be central to their design, development and implementation. The World Health Organization (WHO) endorsed six key ethical principles for the use of AI for health [24]:\n\n1. Protecting human autonomy. Humans should remain in control of medical decisions and people should understand how AI is used in their care (including how their privacy and confidentiality are protected). 2. Promoting human wellbeing and safety and the public interest. AI should not harm people: the designers of AI technology should comply with regulatory requirements for safety, accuracy and efficacy. 3. Ensuring transparency, explainability and intelligibility. AI technology should be understandable to developers, healthcare professionals, patients, users and regulators ‘according to the capacity of those to whom they are explained’.\n\n\n## PDF page 275 | printed page 256\n\n4. Fostering responsibility and accountability. Patients and clinicians should evaluate the development and deployment of AI technologies. This should include mechanisms for questioning and for redress for individuals and groups that are adversely affected by decisions based on algorithms. 5. Ensuring inclusiveness and equity. AI for health should be designed ‘to encourage the widest possible appropriate, equitable use and access, irrespective of age, sex, gender, income, race, ethnicity, sexual orientation, ability or other characteristics protected under human rights codes’. AI technologies should not encode biases to the disadvantage of identifiable groups (especially already minoritised groups). 6. Promoting AI that is responsive and sustainable. All AI role players (designers, developers and users) should ‘continuously, systematically and transparently’ assess AI applications during actual use. Two aspects are important for sustainable AI systems. First, their environmental consequences should be minimal. Second, their impact on the workplace, including workplace disruptions, training of healthcare workers and potential job losses, should be addressed by governments and companies.\n\nChapter 17\n\nGuidance on the ethics and governance of LMMs is a complex and expanding topic; see the WHO’s new review if you are interested [19].\n\nAppraising artificial intelligence papers: a plethora of checklists\n\nWhen can you trust a paper describing an AI intervention, and when can’t you? The APPRAISE-AI tool was developed to evaluate the methodological and reporting quality of 28 clinical AI studies using a quantitative approach [25]. However, it is only one of several such tools in the literature (indeed, a 2022 literature review identified 14 frameworks including 8 providing reporting checklists for medical applications of AI) [26]. We summarise some of the current frameworks in Table 17.2. You should select the specific reporting guideline relevant to the study design of the paper you are appraising; for example, TRIPOD-AI for prediction model studies, STARD-AI for diagnostic accuracy studies and SPIRIT/CONSORT-AI for randomised controlled trials. These AI extensions to current reporting guidelines include additional items to, for example, address potential sources of bias specific to AI systems [27]. Reporting guidelines, although a good starting point when evaluating a paper, should not be used uncritically as quality checklists. As we write this chapter, no reporting standards yet exist for studies that evaluate the performance of LLM-linked chatbots when providing clinical advice. To bridge this gap, a group of researchers are currently developing\n\n\n## PDF page 276 | printed page 257\n\nTable 17.2 Artificial intelligence reporting guidelines\n\nName Stage Study design Comment\n\nTRIPOD-AI Preclinical development Prediction model evaluationa Extension of TRIPOD and used to report development, validation and updates of diagnostic and prognostic prediction models (diagnostic or prognostic) STARD-AI Preclinical development, offline validation\n\n### Chapter 17\n\nExtension of STARD and used to report diagnostic accuracy studies DECIDE-AI Early live clinical evaluation Various (prospective cohort studies, non-RCTs, etc.)\n\nDiagnostic accuracy studiesa\n\nStand-alone guideline which is used to report the early evaluation of AI systems as an intervention in live clinical settings (guideline used for all study designs and any AI system modality, e.g. diagnostic, prognostic, therapeutic). This guideline focuses on clinical utility, safety, and human factors SPIRIT-AI Comparative prospective evaluation\n\nRCTs (protocol) Extension of SPIRIT. Used to report the protocols of randomised controlled trials evaluating AI systems as interventions CONSORT-AI Comparative prospective evaluation\n\nRCTsa Extension of CONSORT and used to report large-scale RCTs evaluating AI systems as interventions (for any AI system modality, e.g. diagnostic, prognostic, therapeutic). This guideline focuses on effectiveness and safety CLAIM All AI in medical imaging studies\n\nA checklist to guide reporting of AI in medical imaging CHART All studies assessing the use of chatbots in healthcare\n\nStudies reporting medical imaginga\n\nChatbot assessment reporting tool (CHART) currently being developed\n\nChatbot assessment studiesa\n\na Primary target of the guidelines (either specific stage or a specific design).\n\n\n## PDF page 277 | printed page 258\n\nin evaluating the performance of LLM-linked chatbots that summarise health evidence and provide clinical advice [29]. You might want to track that publication in Google Scholar. A further challenge of AI studies is that even when your critical appraisal confirms that the AI study was done rigorously and its findings can be trusted, there is a further question: does the AI technology or intervention work in (clinical) practice? The patients in your clinic may not be comparable to the patient sample on which the algorithm was trained. We can’t reproduce or summarise all the checklists in this chapter, so we have chosen the DECIDE-AI checklist (see Table 17.3) for evaluating AI-based decision support systems. This field poses some methodological challenges (Box 17.1 and Table 17.3) [25]. Most of these challenges are also applicable to other AI studies; for example, how humans and machines ‘collaborate’ while protecting the important ethical principle of human autonomy, and how AI systems could harm (e.g. algorithm bias and data breaches).\n\n### Chapter 17\n\nBox 17.1 Issues to consider in AI-based decision support systems\n\n• • AI-based decision support systems represent complex interventions. We need to account for the associated complexities and evaluate how these systems integrate within existing healthcare ecosystems. • • People who use AI-based decision support systems vary a lot; this could add biases. We need to account for user variability and the added biases. • • Two forms of intelligence (human and AI system) are collaborating. We therefore need to evaluate human factors. • • AI-based decision support systems involve both physical patients and their data representations. We therefore need to account for patients and their data when evaluating these AI systems. • • AI-based decision support systems represent a interventions that continuously change (either due to early prototyping, version updates, or continuous learning design). We need to account for this complexity and analyse related performance changes. • • AI-based decision support systems could embed and reproduce existing health inequality and systemic biases. We need to evaluate and address these challenges. • • Findings of AI-based decision support system studies might not be relevant for different settings to those studies. We need to estimate the generalisability of findings across different sites and populations. • • AI-based decision support systems represent a field of dynamic innovation and intellectual property protection. We need to evaluate (and enable) reproducibility of the findings in the context of these challenges.\n\nSource: adapted from Vasey et al. [28].\n\n![Source image](../../figures/ch017_p0277_01.jpg)\n\nUnmatched source image; PDF page 277. Consult the original caption.\n\n\n## PDF page 278 | printed page 259\n\nTable 17.3 Simplified DECIDE-AI checklist\n\nTheme Recommendation\n\nTitle Include mention of AI in the title Abstract Provide a structured summary. Introduction Intended use Describe what condition(s) the AI is being used for, the intended patient population, and current standard practice Describe who will use the AI system, how it will fit into the care pathway, and what the anticipated impact will be Objectives State the study objectives Ethics and governance Link to the study protocol and give details of ethics approval Methods Participants Describe how patient participants and users of the AI system were recruited, including what inclusion and exclusion criteria were used (for patients, at both patient and data level), and justify the sample sizes; Describe how users were taught to use the AI system. Al system Describe the AI system (include version and type of underlying algorithm). Describe/ reference the characteristics of the patient population on which the algorithm was trained (and its performance in preclinical development and validation studies) Identify and describe input data. (including how data were acquired and entered, for example) Describe the AI system outputs and how they were presented to users (add image if possible) Implementation Describe the settings in which the AI system was evaluated, including details of clincal workflow, who made actual clinical decisions and how Outcomes Specify primary and any secondary outcomes measured Safety and errors Describe how errors or malfunctions were defined and identified, and how risks to patient safety were identified, analysed and minimised Human factors Describe the human factors tools, methods or frameworks used, the used cases considered, and the users involved Analysis Describe and justify how data were analysed including statistical tests AI ethics Give details of any specific methodologies used to ensure algorithmic fairness or other ethical goal Patient involvement Say how patients were involved in any aspect of the study Results Participants Give details of both the patient population and users of the AI system Implementation Report on how much the AI system was used, whether users adhered to the protocol, and any changes to workflow or care pathway\n\n### Chapter 17\n\n\n## PDF page 279 | printed page 260\n\nTable 17.3 (Continued)\n\nTheme Recommendation\n\nMain findings Report on the primary and secondary outcomes, with subgroup analyses if appropriate Modifications Report on any changes made to the AI platform or its hardware throughout the study Human-computer agreement Report on how closely the human user agreed with the AI system’s recommendations and explain and comment on instances of disagreement Safety and errors List and comment on significant errors or malfunctions, including how common they were, whether they could be corrected and impacts on patient care. Report on any risks or harms to patients, including indirect harm. Human factors Report on the usability evaluation (perhaps using a recognised framework for this) Discussion Conclusions about intended use Discuss whether the study results support the intended use of the AI system in clinical settings Safety and errors Discuss the implications of the safety profile of the AI system, including the extent to which limitations might be mitigated Strengths and limitations Discuss the strengths and limitations of the study\n\n### Chapter 17\n\nStatements Data availability Say what data are available (including code) to others Disclosures Disclose any conflicts of interest (e.g. commercial interests)\n\nSource: simplified and adapted from Vasey et al. [28].\n\n### Ten questions to ask about a paper that reports AI studies in healthcare\n\nIn preparing these ten questions, we have drawn on several AI quality tools and reporting guidelines—mostly the CONSORT-AI [30] and DECIDE-AI [28] extensions. The questions focus on studies on decision support systems driven by AI.\n\nQuestion one: What is the intended use of the AI system, and who are the intended users? Based on this, is the AI system relevant to your patients and practice? As we mentioned in Chapter 8, this is the ‘so what’ question, or the clinical utility of the AI system. What are the targeted medical condition(s) (e.g. breast cancer) and associated problem(s) (e.g. reducing false-positive screens and increase breast cancer detection rates), current standard practice, and the intended patient population? Who are the intended users of the AI system and how could it be integrated in their care pathways? For example, radiologists\n\n\n## PDF page 280 | printed page 261\n\nbreast cancer screening programmes [31]. How might the AI system improve on current standard practice? If so, would you or your patient(s) use it in preference to existing solutions/systems?\n\nQuestion two: Is it clear what type of AI study is reported in the paper? Does the paper, for example, report a clinical trial, diagnostic accuracy study or prediction model study? As mentioned above, the applications of AI (in general and in healthcare) are broadly grouped into one or a combination of four capabilities: prediction (e.g. the risk of a person developing a specific health outcome), classification (e.g. presence of absence of a disease), association (e.g. drug discovery or new risk factors for a specific health condition) and optimisation (e.g. administrative tasks).\n\nChapter 17\n\nQuestion three: Who participated in the study (patients and users)? Here, you should consider three important aspects: the patients on which the AI algorithm was trained, the users of the AI system and how users were familiarised with the AI system. First, considering patients, it should be clear from the manuscript who the patients were on which the AI algorithm was trained: how patients were recruited, including sample size and inclusion and exclusion criteria at both patient and data level. For example, at patient level a participant could meet all inclusion criteria but still be excluded from the study due to incomplete or poor quality of the data. Second, as AI systems are complex interventions, it is important to consider how the interaction between users and the AI system influenced overall AI system performance and study results. This is similar to surgical innovation studies where both patient and operator characteristics are important and should be reported [32]. Finally, how users were familiarised with the AI system should help you to anticipate how much time and work might be required for the AI system to be used reliably and with confidence in your own practice. Look for a training protocol, the type and number of training and practice sessions delivered, and training materials (as supplementary information). Finally, look for the baseline characteristics of the patients included in the AI system dataset and the users of the AI system in the study.\n\nQuestion four: What AI system was used in this study? First, look for a concise description of the AI system, especially its version, the underlying algorithm, supporting hardware, and software (if relevant). You can usually find this in the methods section of the paper. Do not expect a full description of the AI algorithm or mathematical model in the paper, it could be complicated! Rather, if you are mathematically inclined, look for references (either published or in an open science repository or as supplementary material) to the development and validation studies of the algorithm. Here, you should find information on the components of the\n\n\n## PDF page 281 | printed page 262\n\nthe development/validation studies, the performance metrics used and the study results. A description of the supporting hardware might give you an indication of the benefits and limitations of the platform in your own clinical setting. Also look for specific algorithmic thresholds used in the study (e.g. cut-off set to not exceed a specific false positive rate). Second, identify the data used as inputs for the AI system. How did the research team acquire the data? What method was used to input the data into the AI system? What preprocessing was applied and how were missing or low-quality data handled? Finally, look for a description of the AI system outputs and how they were presented to the users. The human-computer interface (specifically how information is displayed) is important for how users will interact with the AI system [33].\n\nChapter 17\n\nQuestion five: What are the clinical setting(s) and clinical workflow/pathway in which the AI system was evaluated? You need to know whether the settings and conditions of the study are representative of the AI system’s intended use. How the AI system has been integrated in the clinical workflow/care pathway (including the clinical decisions made using the AI system) is important. Anchoring bias, a form of cognitive bias [34], is possible when users see the AI system recommendations at the same time as they receive other information on which clinical decision-making is based (so called ‘concurrent reading mode’). In second reading mode, users see the AI system recommendations after they have made the decision about a case, and re-evaluate their initial decision based on the new AI system information. Authors should report any significant changes to the clinical workflow or care pathways caused by the AI system.\n\nQuestion six: Were possible errors, including algorithm and use errors (and malfunctions of the supporting software/hardware) defined, described and reported? Did the authors describe their approach to mitigate safety concerns or patient harm? Did the authors report and discuss any safety concerns or instances of harm? Errors and malfunctions impact patient safety and could harm patients. Three main categories of errors and malfunctions should be considered (look for this in the methods section of the paper) and reported in the results section (e.g. rate, causes and impact on patient care of AI system errors/malfunctions):\n\n1. algorithm errors (e.g. the AI system did not detect all cancers in women’s digital mammograms [35]) 2. malfunction of the supporting software or hardware (e.g. the AI system failed to produce a recommendation due to data extraction issue) 3. errors involving users (e.g. clinician input inaccurate patient details or\n\n\n## PDF page 282 | printed page 263\n\nSafety assessment is a continuous process which occurs before, during and after a clinical study as new risks or harms might be uncovered after AI system implementation in clinical settings. AI system researchers should describe their risk management process in the methods section of the paper and report and discuss any observed risks to patient safety or instances of harm in the results and discussion sections of the paper. Authors should report any changes made to the AI system during the study.\n\nChapter 17\n\nQuestion seven: How did the authors deal with human factors? Human factors (also called ergonomics) can make or break AI systems in healthcare. Here, the aim is to describe and understand the interactions among humans and the AI system, including factors like situation awareness, workload and automation bias. Authors should consider AI system evaluation (preclinical and ongoing while used in clinical settings), the clinical context and specific AI system, and usability (using validated tools to evaluate, for example, workload, display interface or user satisfaction). You can read more about human factors and ergonomics principles for healthcare AI in this paper [36].\n\nQuestion eight: What is the approach to ethical use of the AI system? This question relates to the key ethical principles discussed earlier in this chapter (and to question six above). Did the authors report and describe how they worked to detect, quantify and mitigate bias in the AI system’s algorithmic outputs (e.g. through algorithmic fairness: adjustments in an attempt to correct for bias). Therefore, algorithmic bias in AI systems could harm groups that are already underrepresented and marginalised [37].\n\nQuestion nine: Did the authors share the code and data used to train and validate their AI system? As noted above, explainability of any AI system is very important. The authors should share the code and data used to train and validate their AI system. Bonus points to the authors if they annotated their code to explain what each bit does to allow the reader to follow regardless of their background. Ideally, you should be able to easily generate plots, charts and matrices that tell you all about the data’s metrics, by running the algorithm. Good papers that are transparent about their code and data will let you do this.\n\nQuestion ten: What kind of collaborative model between authors was used to build the AI system? Who performed the research? Was it a diverse team of AI scientists, clinicians and patient partners, for example, to counteract the risk of ‘monocultures of knowing and knowers’ referred to earlier in this chapter [4]? While this could\n\n\n## PDF page 283 | printed page 264\n\nform an idea: were clinicians involved in building the AI tool if it’s aimed at clinical care (not just testing it, but building it! Here, Yosra Mekki argues that clinicians should build their own AI models [38]). Do the authors explain to what extent clinicians and patient partners, for example, were involved in the project? (And not just a tokenistic checklist tick of the ‘collaboration’ box). Did the authors discuss how they supported clear communication between team members of different backgrounds? This reflects on model quality.\n\nChapter 17\n\nSummary\n\nIn summary, before we use an AI system to inform our clinical decisions, we should ask two over-arching questions. First, ‘What is the accuracy, reliability, and validity of the AI system in diagnosing or making a recommendation for my patient’s specific condition and context?’ And second, ‘How well has the AI system been tested against diverse patient populations and various clinical scenarios?’ We should understand the limitations and potential biases of an AI system – AI systems can only supplement but not replace a healthcare professional’s expertise and contextual praxis. A well-informed clinician would consider the results from such technologies within the context of the science, and the individual patient’s personal circumstances.\n\nExercises based on this chapter\n\n1. Listen to the NEJM-AI podcast by Dr Ziad Obermeyer [39]. Discuss the complex issues of bias, safety and generalisability of medical AI. How do siloed and inaccessible data amplify these AI challenges? Why should clinicians and AI researchers collaborate to develop AI systems for healthcare? 2. Take a look at the paper by Wong et al. [40], who used a big-data ‘deep learning’ approach to discover a new class of antibiotic. Why do you think this innovation was not possible before the advent of advanced computer power? To what extent do you think AI can help us keep ahead of antimicrobial resistance? 3. According to this paper, machine learning may outperform conventional statistical methods to predict next-season athlete injuries [41]. What are the challenges of applying machine learning to predict a future health condition? Is machine learning always better than conventional statistical models such as logistic regression? 4. A US-based classification algorithm for melanoma diagnosis [42] was trained on images of skin lesions in mainly light-skinned patients and then used on images of lesions among African-American patients [43]. How did the system perform? Referring to the WHO’s six key ethical principles for the use of AI for health [24], what would you do to ensure ethical and\n\n\n## PDF page 284 | printed page 265\n\n5. Review the paper ‘The role of artificial intelligence in early cancer diagnosis’ [44]. Now, search PubMed and find an artificial intelligence paper on a topic of your choice. What was the health condition that the AI system targeted? What type of AI algorithm did the researchers use in the paper? (artificial neural network, deep neural network, convolutional neural network, recurrent neural network etc.). Could you describe the problemsolving approach that the AI algorithm followed (classification, regression etc.)? What was the source of data used to develop the AI algorithm? Was the data source representative or could the AI algorithm be biased? 6. Read this paper on the use of AI to predict whether a person is at risk of ventricular arrhythmia [45]. What type of machine learning did the researchers use? Could you use such an AI system in your practice?\n\n### Chapter 17\n\n### References\n\n1. Johnson. Our word of the year for 2023. The Economist 7 December 2023. https://www.economist.com/culture/2023/12/07/our-word-of-the-year-for-2023 (accessed 9 December 2023). 2. Zhang J, Whebell S, Gallifant J, et al. An interactive dashboard to track themes, development maturity, and global equity in clinical artificial intelligence research. Lancet Digital Health. 2022; 4: e212–3. 3. Lee P, Goldberg C, Kohane I. The AI Revolution in Medicine: GPT-4 and beyond. Hoboken, NJ: Pearson; 2023. 4. Messeri L, Crockett MJ. Artificial intelligence and illusions of understanding in scientific research. Nature 2024; 627: 49–58. 5. Meskó B, Görög M. A short guide for medical professionals in the era of artificial intelligence. npj Digital Medicine 2020; 3: 126. 6. Bostrom N. What happens when our computers get smarter than we are? TED March 2015. https://www.ted.com/talks/nick_bostrom_what_happens_when_ our_computers_get_smarter_than_we_are (accessed 8 March 2024). 7. Bostrom N. Superintelligence: Paths, dangers, strategies. New York, NY: Oxford University Press; 2014. 8. Kedia N, Sanjeev S, Ong J, et al. ChatGPT and Beyond: An overview of the growing field of large language models and their use in ophthalmology. Eye 2024; 38: 1252–61. 9. De Silva D, Alahakoon D. An artificial intelligence life cycle: from conception to production. Patterns 2022; 3: 100489. 10. Baro E, Degoul S, Beuscart R, et al. Toward a literature-driven definition of big data in healthcare. BioMed Research International 2015; 2015: 639021. 11. Dhindsa K, Bhandari M, Sonnadara RR. What’s holding up the big data revolution in healthcare? BMJ 2018; 363: k5357. 12. Nab L, Schaffer A, Hulme W, et al. OpenSAFELY: a platform for analysing electronic health records designed for reproducible research [preprint]. 3 February 2024 https://doi.org/10.31219/osf.io/hj2sg. 13. Cezard GI, Denholm RE, Knight R, et al. Impact of vaccination on the association\n\n\n## PDF page 285 | printed page 266\n\n14. Car J, Sheikh A, Wicks P, et al. Beyond the hype of big data and artificial intelligence: building foundations for knowledge and wisdom. BMC Medicine 2019; 17: 143. 15. Kapoor S, Narayanan A. Leakage and the reproducibility crisis in\n\nmachine-learning-based science. Patterns (NY) 2023; 4: 100804. 16. Yu P, Xu H, Hu X, et al. Leveraging generative AI and large language models: a comprehensive roadmap for healthcare integration. Healthcare (Basel) 2023; 11: 2776. 17. Thirunavukarasu AJ, Ting DSJ, Elangovan K, et al. Large language models in medicine. Nature Medicine 2023; 29: 1930–40. 18. Clusmann J, Kolbinger FR, Muti HS, et al. The future landscape of large language models in medicine. Communications Medicine 2023; 3 :141. 19. World Health Organization. WHO releases AI ethics and governance guidance for large multi-modal models. https://www.who.int/news/item/18-01-2024-whoreleases-ai-ethics-and-governance-guidance-for-large-multi-modal-models (accessed 21 January 2024). 20. Singhal K, Azizi S, Tu T, et al. Large language models encode clinical knowledge. Nature 2023; 620: 172–80. 21. Kung TH, Cheatham M, Medenilla A, et al. Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models. PLOS Digital Health. 2023; 2: e0000198. 22. Lee T-C, Staller K, Botoman V, et al. ChatGPT Answers common patient questions about colonoscopy. Gastroenterology 2023; 165: 509-511.e7. 23. Waisberg E, Ong J, Masalkhi M, et al. Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education. Eye 2024; 38: 639–41. 24. World Health Organization. Ethics and Governance of Artificial Intelligence for Health. WHO Guidance. Geneva: WHO; 2021. 25. Kwong JCC, Khondker A, Lajkosz K, et al. APPRAISE-AI Tool for quantitative evaluation of ai studies for clinical decision support. JAMA Network Open 2023; 6: e2335377. 26. Crossnohere NL, Elsaid M, Paskett J, et al. Guidelines for artificial intelligence in medicine: literature review and content analysis of frameworks. Journal of Medical Internet Research 2022; 24: e36823. 27. Nagendran M, Chen Y, Lovejoy CA, et al. Artificial intelligence versus clinicians: systematic review of design, reporting standards, and claims of deep learning studies. BMJ 2020; 368: m689. 28. Vasey B, Nagendran M, Campbell B, et al. Reporting guideline for the early stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI. BMJ 2022; 377: e070904. 29. Huo B, Cacciamani GE, Collins GS, et al. Reporting standards for the use of large language model-linked chatbots for health advice. Nature Medicine 2023; 29: 2988–2988. 30. Liu X, Rivera SC, Moher D, et al. Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension. BMJ 2020; 370: m3164.\n\n### Chapter 17\n\n\n## PDF page 286 | printed page 267\n\n31. Marinovich ML, Wylie E, Lotter W, et al. Artificial intelligence (AI) for breast cancer screening: BreastScreen population-based cohort study of cancer detection. eBioMedicine 2023; 90: 104498. 32. Hirst A, Philippou Y, Blazeby J, et al. No surgical innovation without evaluation: evolution and further development of the IDEAL framework and recommendations. Annals of Surgery 2019; 269: 211–20. 33. Dudley JJ, Kristensson PO. A review of user interface design for interactive machine learning. ACM Transactions on Interactive Intelligent Systems 2018; 8(2): 1–37. 34. Furnham A, Boo HC. A literature review of the anchoring effect. Journal of Socio-\n\n### Chapter 17\n\nEconomics 2011; 40: 35–42. 35. Freeman K, Geppert J, Stinton C, et al. Use of artificial intelligence for image analysis in breast cancer screening programmes: systematic review of test accuracy. BMJ 2021; 374: n1872. 36. Sujan M, Pool R, Salmon P. Eight human factors and ergonomics principles for healthcare artificial intelligence. BMJ Health and Care Informatics 2022; 29: bmjhci-2021-100516. 37. Aquino YSJ, Carter SM, Houssami N, et al. Practical, epistemic and normative implications of algorithmic bias in healthcare artificial intelligence: a qualitative study of multidisciplinary expert perspectives [published online ahead of print 23 February 2023]. Journal of Medical Ethics 2023. https://doi.org/10.1136/ jme-2022-108850 38. Mekki YM. Physicians should build their own machine-learning models. Patterns 2024; 5:100948. 39. Development P. Manrai A, Beam A, hosts. The double-edged sword of AI, with Dr. Ziad Obermeyer [podcast]. NEJM AI Grand Rounds 27 July 2023. https://aipodcast.nejm.org/e/the-double-edged-sword-of-ai-with-dr-ziad-obermeyer (accessed 1 January 2024). 40. Wong F, Zheng EJ, Valeri JA, et al. Discovery of a structural class of antibiotics with explainable deep learning. Nature 2024; 626: 177–85. 41. Karnuta JM, Luu BC, Haeberle HS, et al. Machine learning outperforms regression analysis to predict next-season major league baseball player injuries: epidemiology and validation of 13,982 player-years from performance and injury profile trends, 2000–2017. Orthopaedic Journal of Sports Medicine 2020; 8: 2325967120963046. 42. Brinker TJ, Hekler A, Enk AH, et al. Deep neural networks are superior to dermatologists in melanoma image classification. European Journal of Cancer 2019; 119: 11–17. 43. Norori N, Hu Q, Aellen FM, et al. Addressing bias in big data and AI for health care: a call for open science. Patterns 2021; 2: 100347. 44. Hunter B, Hindocha S, Lee RW. the role of artificial intelligence in early cancer diagnosis. Cancers (Basel) 2022; 14: 1524. 45. Barker J, Li X, Kotb A, et al. Artificial intelligence for ventricular arrhythmia capability using ambulatory electrocardiograms. European Heart Journal Digital Health 2024; 2024: ztae004.\n"
+}

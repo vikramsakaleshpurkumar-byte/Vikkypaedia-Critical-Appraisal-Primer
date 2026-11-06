@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "Future trial data hidden at initial stage",
+    "No feedback before stage 1",
+    "Feedback after stage 1",
+    "No feedback before stage 2",
+    "Feedback after stage 2",
+    "No feedback before stage 3",
+    "Feedback after stage 3",
+    "Capstone scores three distinct decisions",
+    "Capstone fits mobile",
+    "Capstone supports keyboard decisions",
+    "No capstone runtime errors"
+  ],
+  "errors": []
+}

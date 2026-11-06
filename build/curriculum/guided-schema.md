@@ -1,0 +1,3 @@
+# Guided runtime schema
+
+window.GUIDED: array keyed by contiguous num (matches COURSE chapters). Each module has hook, audience, prerequisites, estimated minutes, units, outcomes, case_ids. Units: stable id, level (Essentials / Application / Deep Dive), title, explanation, pdf_page, card_id. Outcomes: id, observable decision text, pdf_page, assessment_id. case_ids references existing COURSE.quizzes IDs. Runtime rejects no schema automatically; build checks cover IDs and source bounds. Completion keys and optional reflection/confidence values are stored under COURSE.storage_key + _guided. Cases hold current attempt only, and later steps are not rendered before response. No remote analytics.

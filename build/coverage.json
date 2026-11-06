@@ -1,0 +1,398 @@
+[
+  {
+    "num": 1,
+    "title": "Why read papers at all?",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 2,
+    "title": "Searching the literature",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 3,
+    "title": "Getting your bearings: what is this paper about?",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 4,
+    "title": "Assessing methodological quality",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 5,
+    "title": "Statistics for the non-statistician",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 6,
+    "title": "Papers that report clinical trials of simple interventions",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 7,
+    "title": "Papers that report trials of complex interventions",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 8,
+    "title": "Papers that report diagnostic or screening tests",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 9,
+    "title": "Papers that summarise other papers (systematic reviews and meta-analyses)",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 10,
+    "title": "Papers that advise you what to do (guidelines)",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 11,
+    "title": "Papers that estimate what things cost (health economic evaluations)",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 12,
+    "title": "Papers that go beyond numbers (qualitative research)",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 13,
+    "title": "Papers that report questionnaire research",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 14,
+    "title": "Papers that report quality improvement case studies",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 15,
+    "title": "Papers that describe genetic association studies",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 16,
+    "title": "Applying evidence with patients",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 17,
+    "title": "Papers on artificial intelligence in healthcare",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 18,
+    "title": "EBM+: the importance of mechanistic evidence",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 19,
+    "title": "Papers that report consensus exercises",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 20,
+    "title": "Criticisms of evidence-based healthcare",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 21,
+    "title": "Checklists for finding, appraising and implementing evidence",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  },
+  {
+    "num": 22,
+    "title": "Assessing the effects of an intervention",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "",
+    "review_statuses": {
+      "source-checked": 11
+    },
+    "assessment_version": 2,
+    "question_formats": {
+      "Best of five": 3,
+      "Assertion–reason": 1,
+      "Data interpretation": 1
+    }
+  }
+]

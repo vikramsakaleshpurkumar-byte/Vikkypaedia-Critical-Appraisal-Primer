@@ -1,0 +1,32 @@
+{
+  "checks": [
+    "All 22 guided modules have six units and five aligned outcomes",
+    "Essentials shows two distinct lessons",
+    "Application shows two distinct lessons",
+    "Deep Dive shows two distinct lessons",
+    "Recall hides teaching answer",
+    "Recall receives keyboard focus",
+    "Completion is stored",
+    "Completion resumes after reload",
+    "Stage two is absent before response",
+    "Case rationale hidden initially",
+    "Keyboard choice reveals reasoning",
+    "Next stage appears only on continue",
+    "Debrief explains score and practice limitations",
+    "Reflection resumes after reload",
+    "Learning record export downloads JSON",
+    "Flashcard answer hidden before reveal",
+    "Space reveals flashcard answer",
+    "Every unique source image decodes",
+    "Guided entry for unit 1",
+    "Guided entry for unit 5",
+    "Guided entry for unit 8",
+    "Guided entry for unit 17",
+    "Guided entry for unit 22",
+    "Guided mobile reflow",
+    "No guided JavaScript errors"
+  ],
+  "errors": [],
+  "unique_images_decoded": 344,
+  "passed": true
+}

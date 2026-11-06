@@ -1,0 +1,7315 @@
+{
+  "technical_passed": true,
+  "full_depth_complete": true,
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    {
+      "name": "Normalized chapter IDs",
+      "passed": true
+    },
+    {
+      "name": "Exact declared source page coverage",
+      "passed": true
+    },
+    {
+      "name": "All PDF pages scoped or explicitly omitted",
+      "passed": true
+    },
+    {
+      "name": "No scope/omission overlap",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 1",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 2",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 3",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 4",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 5",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 6",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 7",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 8",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 9",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 10",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 11",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 12",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 13",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 14",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 15",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 16",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 17",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 18",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 19",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 20",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 21",
+      "passed": true
+    },
+    {
+      "name": "Chapter files 22",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-001-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-001-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-001-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-001-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-001-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-001-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-002-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-002-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-002-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-002-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-002-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-002-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-003-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-003-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-003-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-003-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-003-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-003-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-004-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-004-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-004-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-004-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-004-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-004-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-005-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-005-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-005-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-005-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-005-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-005-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-006-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-006-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-006-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-006-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-006-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-006-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-007-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-007-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-007-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-007-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-007-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-007-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-008-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-008-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-008-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-008-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-008-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-008-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-009-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-009-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-009-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-009-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-009-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-009-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-010-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-010-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-010-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-010-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-010-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-010-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-011-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-011-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-011-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-011-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-011-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-011-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-012-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-012-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-012-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-012-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-012-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-012-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-013-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-013-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-013-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-013-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-013-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-013-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-014-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-014-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-014-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-014-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-014-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-014-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-015-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-015-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-015-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-015-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-015-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-015-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-016-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-016-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-016-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-016-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-016-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-016-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-017-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-017-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-017-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-017-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-017-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-017-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-018-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-018-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-018-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-018-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-018-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-018-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-019-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-019-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-019-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-019-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-019-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-019-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-020-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-020-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-020-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-020-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-020-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-020-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-021-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-021-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-021-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-021-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-021-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-021-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-022-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-022-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-022-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-022-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-022-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference fc-022-6",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-001-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-001-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-001-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-001-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-001-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-002-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-002-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-002-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-002-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-002-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-003-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-003-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-003-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-003-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-003-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-004-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-004-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-004-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-004-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-004-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-005-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-005-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-005-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-005-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-005-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-006-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-006-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-006-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-006-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-006-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-007-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-007-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-007-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-007-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-007-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-008-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-008-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-008-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-008-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-008-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-009-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-009-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-009-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-009-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-009-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-010-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-010-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-010-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-010-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-010-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-011-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-011-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-011-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-011-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-011-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-012-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-012-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-012-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-012-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-012-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-013-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-013-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-013-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-013-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-013-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-014-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-014-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-014-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-014-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-014-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-015-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-015-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-015-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-015-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-015-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-016-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-016-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-016-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-016-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-016-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-017-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-017-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-017-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-017-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-017-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-018-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-018-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-018-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-018-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-018-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-019-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-019-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-019-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-019-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-019-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-020-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-020-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-020-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-020-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-020-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-021-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-021-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-021-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-021-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-021-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-022-1",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-022-2",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-022-3",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-022-4",
+      "passed": true
+    },
+    {
+      "name": "Source reference q-022-5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 1",
+      "passed": true
+    },
+    {
+      "name": "Source reference 1",
+      "passed": true
+    },
+    {
+      "name": "Source reference 1",
+      "passed": true
+    },
+    {
+      "name": "Source reference 1",
+      "passed": true
+    },
+    {
+      "name": "Source reference 1",
+      "passed": true
+    },
+    {
+      "name": "Source reference 1",
+      "passed": true
+    },
+    {
+      "name": "Source reference 2",
+      "passed": true
+    },
+    {
+      "name": "Source reference 2",
+      "passed": true
+    },
+    {
+      "name": "Source reference 2",
+      "passed": true
+    },
+    {
+      "name": "Source reference 2",
+      "passed": true
+    },
+    {
+      "name": "Source reference 2",
+      "passed": true
+    },
+    {
+      "name": "Source reference 2",
+      "passed": true
+    },
+    {
+      "name": "Source reference 3",
+      "passed": true
+    },
+    {
+      "name": "Source reference 3",
+      "passed": true
+    },
+    {
+      "name": "Source reference 3",
+      "passed": true
+    },
+    {
+      "name": "Source reference 3",
+      "passed": true
+    },
+    {
+      "name": "Source reference 3",
+      "passed": true
+    },
+    {
+      "name": "Source reference 3",
+      "passed": true
+    },
+    {
+      "name": "Source reference 4",
+      "passed": true
+    },
+    {
+      "name": "Source reference 4",
+      "passed": true
+    },
+    {
+      "name": "Source reference 4",
+      "passed": true
+    },
+    {
+      "name": "Source reference 4",
+      "passed": true
+    },
+    {
+      "name": "Source reference 4",
+      "passed": true
+    },
+    {
+      "name": "Source reference 4",
+      "passed": true
+    },
+    {
+      "name": "Source reference 5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 5",
+      "passed": true
+    },
+    {
+      "name": "Source reference 6",
+      "passed": true
+    },
+    {
+      "name": "Source reference 6",
+      "passed": true
+    },
+    {
+      "name": "Source reference 6",
+      "passed": true
+    },
+    {
+      "name": "Source reference 6",
+      "passed": true
+    },
+    {
+      "name": "Source reference 6",
+      "passed": true
+    },
+    {
+      "name": "Source reference 6",
+      "passed": true
+    },
+    {
+      "name": "Source reference 7",
+      "passed": true
+    },
+    {
+      "name": "Source reference 7",
+      "passed": true
+    },
+    {
+      "name": "Source reference 7",
+      "passed": true
+    },
+    {
+      "name": "Source reference 7",
+      "passed": true
+    },
+    {
+      "name": "Source reference 7",
+      "passed": true
+    },
+    {
+      "name": "Source reference 7",
+      "passed": true
+    },
+    {
+      "name": "Source reference 8",
+      "passed": true
+    },
+    {
+      "name": "Source reference 8",
+      "passed": true
+    },
+    {
+      "name": "Source reference 8",
+      "passed": true
+    },
+    {
+      "name": "Source reference 8",
+      "passed": true
+    },
+    {
+      "name": "Source reference 8",
+      "passed": true
+    },
+    {
+      "name": "Source reference 8",
+      "passed": true
+    },
+    {
+      "name": "Source reference 9",
+      "passed": true
+    },
+    {
+      "name": "Source reference 9",
+      "passed": true
+    },
+    {
+      "name": "Source reference 9",
+      "passed": true
+    },
+    {
+      "name": "Source reference 9",
+      "passed": true
+    },
+    {
+      "name": "Source reference 9",
+      "passed": true
+    },
+    {
+      "name": "Source reference 9",
+      "passed": true
+    },
+    {
+      "name": "Source reference 10",
+      "passed": true
+    },
+    {
+      "name": "Source reference 10",
+      "passed": true
+    },
+    {
+      "name": "Source reference 10",
+      "passed": true
+    },
+    {
+      "name": "Source reference 10",
+      "passed": true
+    },
+    {
+      "name": "Source reference 10",
+      "passed": true
+    },
+    {
+      "name": "Source reference 10",
+      "passed": true
+    },
+    {
+      "name": "Source reference 11",
+      "passed": true
+    },
+    {
+      "name": "Source reference 11",
+      "passed": true
+    },
+    {
+      "name": "Source reference 11",
+      "passed": true
+    },
+    {
+      "name": "Source reference 11",
+      "passed": true
+    },
+    {
+      "name": "Source reference 11",
+      "passed": true
+    },
+    {
+      "name": "Source reference 11",
+      "passed": true
+    },
+    {
+      "name": "Source reference 12",
+      "passed": true
+    },
+    {
+      "name": "Source reference 12",
+      "passed": true
+    },
+    {
+      "name": "Source reference 12",
+      "passed": true
+    },
+    {
+      "name": "Source reference 12",
+      "passed": true
+    },
+    {
+      "name": "Source reference 12",
+      "passed": true
+    },
+    {
+      "name": "Source reference 12",
+      "passed": true
+    },
+    {
+      "name": "Source reference 13",
+      "passed": true
+    },
+    {
+      "name": "Source reference 13",
+      "passed": true
+    },
+    {
+      "name": "Source reference 13",
+      "passed": true
+    },
+    {
+      "name": "Source reference 13",
+      "passed": true
+    },
+    {
+      "name": "Source reference 13",
+      "passed": true
+    },
+    {
+      "name": "Source reference 13",
+      "passed": true
+    },
+    {
+      "name": "Source reference 14",
+      "passed": true
+    },
+    {
+      "name": "Source reference 14",
+      "passed": true
+    },
+    {
+      "name": "Source reference 14",
+      "passed": true
+    },
+    {
+      "name": "Source reference 14",
+      "passed": true
+    },
+    {
+      "name": "Source reference 14",
+      "passed": true
+    },
+    {
+      "name": "Source reference 14",
+      "passed": true
+    },
+    {
+      "name": "Source reference 15",
+      "passed": true
+    },
+    {
+      "name": "Source reference 15",
+      "passed": true
+    },
+    {
+      "name": "Source reference 15",
+      "passed": true
+    },
+    {
+      "name": "Source reference 15",
+      "passed": true
+    },
+    {
+      "name": "Source reference 15",
+      "passed": true
+    },
+    {
+      "name": "Source reference 15",
+      "passed": true
+    },
+    {
+      "name": "Source reference 16",
+      "passed": true
+    },
+    {
+      "name": "Source reference 16",
+      "passed": true
+    },
+    {
+      "name": "Source reference 16",
+      "passed": true
+    },
+    {
+      "name": "Source reference 16",
+      "passed": true
+    },
+    {
+      "name": "Source reference 16",
+      "passed": true
+    },
+    {
+      "name": "Source reference 16",
+      "passed": true
+    },
+    {
+      "name": "Source reference 17",
+      "passed": true
+    },
+    {
+      "name": "Source reference 17",
+      "passed": true
+    },
+    {
+      "name": "Source reference 17",
+      "passed": true
+    },
+    {
+      "name": "Source reference 17",
+      "passed": true
+    },
+    {
+      "name": "Source reference 17",
+      "passed": true
+    },
+    {
+      "name": "Source reference 17",
+      "passed": true
+    },
+    {
+      "name": "Source reference 18",
+      "passed": true
+    },
+    {
+      "name": "Source reference 18",
+      "passed": true
+    },
+    {
+      "name": "Source reference 18",
+      "passed": true
+    },
+    {
+      "name": "Source reference 18",
+      "passed": true
+    },
+    {
+      "name": "Source reference 18",
+      "passed": true
+    },
+    {
+      "name": "Source reference 18",
+      "passed": true
+    },
+    {
+      "name": "Source reference 19",
+      "passed": true
+    },
+    {
+      "name": "Source reference 19",
+      "passed": true
+    },
+    {
+      "name": "Source reference 19",
+      "passed": true
+    },
+    {
+      "name": "Source reference 19",
+      "passed": true
+    },
+    {
+      "name": "Source reference 19",
+      "passed": true
+    },
+    {
+      "name": "Source reference 19",
+      "passed": true
+    },
+    {
+      "name": "Source reference 20",
+      "passed": true
+    },
+    {
+      "name": "Source reference 20",
+      "passed": true
+    },
+    {
+      "name": "Source reference 20",
+      "passed": true
+    },
+    {
+      "name": "Source reference 20",
+      "passed": true
+    },
+    {
+      "name": "Source reference 20",
+      "passed": true
+    },
+    {
+      "name": "Source reference 20",
+      "passed": true
+    },
+    {
+      "name": "Source reference 21",
+      "passed": true
+    },
+    {
+      "name": "Source reference 21",
+      "passed": true
+    },
+    {
+      "name": "Source reference 21",
+      "passed": true
+    },
+    {
+      "name": "Source reference 21",
+      "passed": true
+    },
+    {
+      "name": "Source reference 21",
+      "passed": true
+    },
+    {
+      "name": "Source reference 21",
+      "passed": true
+    },
+    {
+      "name": "Source reference 22",
+      "passed": true
+    },
+    {
+      "name": "Source reference 22",
+      "passed": true
+    },
+    {
+      "name": "Source reference 22",
+      "passed": true
+    },
+    {
+      "name": "Source reference 22",
+      "passed": true
+    },
+    {
+      "name": "Source reference 22",
+      "passed": true
+    },
+    {
+      "name": "Source reference 22",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-001-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-001-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-001-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-1 Which intervention received the most recent guideline endorsement",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-1 Which study design has the highest conventional evidence rank",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-1 Which monitoring device has the most precise measurements",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-1 Which database indexes the largest number of monitoring studies",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-1 Which outcomes and visit burden these adults consider important",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-001-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-001-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-001-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-2 Identify implementation barriers and measure a targeted practice change",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-2 Repeat the search using a broader range of related terms",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-2 Commission an independent appraisal of the same review",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-2 Replace the review with a larger individual randomised trial",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-2 Teach the team how to calculate the pooled effect estimate",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-001-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-001-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-001-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-3 The outcomes and trade-offs used to frame each person's decision",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-3 The completeness of the review's bibliographic search",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-3 The reproducibility of the trial's event-rate measurements",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-3 The conventional ranking of the treatment study design",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-3 The statistical precision of the pooled treatment effect",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-001-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-001-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-001-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-001-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-001-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-001-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-5 Whether the summaries contained absolute effect estimates",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-5 Whether recipients changed the relevant clinical behaviour",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-5 Whether recipients opened the emailed attachment",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-5 Whether the emailed papers were indexed in two databases",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-001-5 Whether the summaries followed a standard reporting template",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-002-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-002-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-002-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-1 X may stop if the synthesis is statistically significant; Y should seek nonsignificant studies",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-1 X may stop after relevance checks; Y still needs a documented comprehensive search",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-1 Both should stop when a second search returns the same synthesis",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-1 Both should continue until each database returns exactly the same papers",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-1 X should retrieve every trial; Y may stop once the synthesis is methodologically sound",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-002-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-002-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-002-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-2 The pooled comparison may estimate the wrong treatment contrast",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-2 The interval is too narrow to represent an individual treatment response",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-2 The sample is too large to detect a clinically relevant difference",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-2 The review should replace relative effects with absolute effects",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-2 The evidence is secondary rather than primary research",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-002-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-002-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-002-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-3 Treat the secondary source as proof that all its references are eligible",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-3 Add a publication-year restriction to make the search more focused",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-3 Replace the clinical question with the database's most common subject heading",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-3 Search only the journal that published the secondary source",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-3 Use the known studies to diagnose gaps in the search strategy",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-002-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-002-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-002-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-002-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-002-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-002-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-5 Both searches found the same synthesis article",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-5 The 12 original papers had different study designs",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-5 Eligible relevant reports were missed by the single-database method",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-5 Search B retrieved more total records than search A",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-002-5 The three additional reports were less recently published",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-003-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-003-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-003-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-1 Whether allocation to exposure was concealed from recruiters",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-1 Whether both groups had the same future follow-up schedule",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-1 Whether controls represent the exposure distribution in the source population",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-1 Whether the comparison was analysed by original treatment assignment",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-1 Whether outcome assessors used identical intervention-adherence thresholds",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-003-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-003-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-003-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-2 The trial used different staff to deliver each diet",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-2 The dietary outcome was measured after enrolment",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-2 The diets were not randomly allocated to the comparison groups",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-2 The study had only two treatment groups",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-2 The wards were selected from a finite hospital sample",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-003-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-003-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-003-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-3 A qualitative exploration across relevant patient experiences",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-3 A case-control comparison of procedural complications",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-3 A larger trial using technical completion as its sole endpoint",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-3 A meta-analysis restricted to technical-completion outcomes",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-3 A cross-sectional estimate of procedure frequency",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-003-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-003-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-003-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-003-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-003-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-003-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-5 Y is a cohort study; Z is a case-control study",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-5 Y is a cross-sectional survey; Z is a randomised trial",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-5 Y is a randomised trial; Z is a case-control study",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-5 Y is a cohort study; Z is a cross-sectional survey",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-003-5 Y is a case-control study; Z is a cohort study",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-004-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-004-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-004-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-1 Compare consultation recordings with the corresponding record entries",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-1 Compare smoking-status entries across two electronic record systems",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-1 Compare clinicians' confidence in recording smoking histories",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-1 Compare recorded smoking prevalence with a national survey",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-1 Compare the audit's sample size with a published prescribing audit",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-004-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-004-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-004-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-2 Increase the number of unblinded outcome raters",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-2 Use assessors unaware of programme allocation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-2 Use the same therapist to deliver and rate treatment",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-2 Equalise the number of recruitment visits between groups",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-2 Measure baseline function with a more detailed questionnaire",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-004-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-004-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-004-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-3 Whether the allocation sequence was computer-generated",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-3 Whether the trial had a statistically significant primary outcome",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-3 How the exclusions could alter this patient's expected benefit and harm",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-3 Whether the abstract gave a sufficiently detailed discussion",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-3 Whether the trial used more than one statistical package",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-004-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-004-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-004-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-004-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-004-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-004-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-5 The result rules out benefit because the planned sample was reached",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-5 The trial demonstrates equivalence at the smaller benefit threshold",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-5 The smaller benefit should be treated as the best estimate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-5 The primary endpoint should be replaced by the strongest secondary endpoint",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-004-5 The result is inconclusive about the smaller clinically important benefit",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-005-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-005-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-005-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-1 The interval should be omitted because it contains the no-effect value",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-1 The interval includes clinically relevant benefit as well as no effect",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-1 The upper limit establishes that the treatment increases risk",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-1 The trial establishes that a 14% relative reduction is clinically important",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-1 The lower limit should replace the point estimate for decision-making",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-005-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-005-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-005-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-2 The sample contains fewer than 100 independent observations",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-2 The mean change is smaller than the baseline standard deviation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-2 The observations are linked within each participant",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-2 The outcome is recorded on a continuous scale",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-2 The measurements were made at two prespecified time points",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-005-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-005-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-005-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-3 Whether the subgroup includes an equal number of men and women",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-3 Whether the subgroup table is placed in the main article",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-3 Whether the subgroup's unadjusted p-value is smaller than the primary p-value",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-3 Whether the discussion offers a plausible mechanism after analysis",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-3 Whether the subgroup hypothesis was prespecified and independently supported",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-005-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-005-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-005-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-005-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-005-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-005-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-5 ARR is 4 percentage points in X and 20 points in Y",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-5 ARR is 25 percentage points in both populations",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-5 ARR is 5 percentage points in X and 1 point in Y",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-5 ARR is 1 percentage point in X and 5 points in Y",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-005-5 ARR is 16 percentage points in X and 3 points in Y",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-006-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-006-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-006-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-1 The trial should report only absolute rather than relative effects",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-1 The trial should be interpreted as a placebo-controlled comparison",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-1 The new drug's endpoint should be converted to a standardised effect size",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-1 The standard arm's baseline risk should be used as an external control",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-1 The study contrast differs from the intended clinical contrast",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-006-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-006-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-006-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-2 A statistically significant association between baseline marker and prognosis",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-2 A mechanistic explanation for why the biomarker changes",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-2 Agreement between two laboratory methods measuring the biomarker",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-2 A larger trial powered for a still smaller biomarker change",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-2 Direct evidence on patient-important outcomes with the new treatment",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-006-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-006-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-006-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-3 The safety conclusion is secure if follow-up was identical between arms",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-3 The sample should be analysed as if one event had occurred",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-3 The absence of the event invalidates the primary efficacy endpoint",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-3 The sample gives limited information about an event that rare",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-3 The event can be assessed by comparing mean biomarker changes",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-006-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-006-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-006-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-006-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-006-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-006-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-5 The treatment reduced mortality by the same relative percentage",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-5 The treatment had no patient benefit because symptoms were unchanged",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-5 The treatment is clinically equivalent because symptoms did not differ",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-5 The treatment changed the biomarker; longer survival is not established",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-006-5 The treatment improved survival because the biomarker is prognostic",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-007-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-007-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-007-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-1 Equipment plus calls versus the same calls without equipment",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-1 Equipment plus calls versus a waiting list without either component",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-1 Equipment plus calls versus published historical admission rates",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-1 Equipment plus calls versus a second brand of equipment plus calls",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-1 Equipment plus calls versus a clinic with a lower baseline admission rate",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-007-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-007-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-007-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-2 The primary outcome must be replaced by attendance",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-2 The programme would have worked if all sessions had occurred",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-2 The study poorly tests the intended programme under adequate delivery",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-2 The theory of change is contradicted in every plausible setting",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-2 The control group must have received the active components",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-007-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-007-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-007-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-3 Evidence that the sites prefer different brand colours",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-3 Evidence that the final outcome is statistically significant overall",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-3 Evidence that one site recruited more participants than another",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-3 Evidence that adaptations preserve the intended mechanism and improve feasibility",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-3 Evidence that all sites cite the same reporting checklist",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-007-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-007-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-007-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-007-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-007-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-007-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-5 The confidence effect proves that delivery fidelity was adequate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-5 Different outcomes show different effects and need separate interpretation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-5 The severity result should be dropped because confidence improved",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-5 The confidence result establishes that disease severity will improve later",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-007-5 Both outcomes should be combined into an unplanned success score",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-008-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-008-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-008-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-1 Use a narrower confidence interval as the main inclusion criterion",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-1 Increase the number of healthy volunteers while keeping the cases unchanged",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-1 Choose a higher positive threshold using the same extreme groups",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-1 Recruit a representative spectrum of people undergoing the clinical work-up",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-1 Repeat the index test twice in each severe case",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-008-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-008-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-008-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-2 The laboratory's ability to repeat a positive result",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-2 The random allocation of patients to treatment groups",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-2 The classification of negative results against the reference standard",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-2 The clinical relevance of the disease definition alone",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-2 The precision of the positive threshold measurement alone",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-008-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-008-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-008-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-3 Use the index test to resolve every uncertain reference result",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-3 Add a second reader who also sees both test results",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-3 Increase recruitment until confidence intervals become narrow",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-3 Use a justified reference definition independent of the index result",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-3 Select only patients whose two test results agree",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-008-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-008-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-008-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-008-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-008-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-008-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-5 80%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-5 20%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-5 50%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-5 25%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-008-5 24%",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-009-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-009-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-009-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-1 Retain only studies whose confidence intervals overlap the pooled estimate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-1 Retain the largest trial in each direction and discard the others",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-1 Apply the prespecified clinical and methodological eligibility criteria",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-1 Include only trials that individually reach statistical significance",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-1 Exclude studies until the heterogeneity statistic becomes nonsignificant",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-009-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-009-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-009-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-2 Add further decimal places to the overall pooled estimate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-2 Replace all study confidence intervals with one common interval",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-2 Restrict the display to the summary diamond",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-2 Increase the weight of the trial closest to routine practice without a stated rule",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-2 Examine whether clinical and methodological differences explain effect variation",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-009-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-009-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-009-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-3 The classification should follow the trial's p-value instead",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-3 The score should be replaced by the number of citations",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-3 A total score can conceal a consequential problem in a specific bias domain",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-3 Allocation methods matter only in small trials",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-3 Any numerical score necessarily produces a biased pooled effect",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-009-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-009-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-009-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-009-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-009-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-009-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-5 The smaller study has a larger point benefit but much less precise evidence",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-5 The small study should be excluded because its interval crosses 1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-5 The larger study has no clinically relevant effect because its RR is nearer 1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-5 The smaller study provides stronger evidence because 0.60 is further from 1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-009-5 The studies necessarily conflict because their point estimates differ",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-010-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-010-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-010-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-1 Independent evidence-methods input and relevant lived-experience input",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-1 Two additional senior clinicians who developed the treatment",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-1 A copy editor and a graphic designer before publication",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-1 A larger panel drawn from the same specialist society",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-1 A public endorsement after the recommendations are finalised",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-010-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-010-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-010-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-2 Whether each recommendation is placed next to a flowchart",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-2 How evidence quality and trade-offs informed the recommendations",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-2 Whether the search retrieved more records than other guidelines",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-2 Whether the reference list includes at least one randomised trial",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-2 Whether the same recommendation wording was used for every subgroup",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-010-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-010-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-010-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-3 Accept the recommendations if all panel members signed disclosures",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-3 Reject every recommendation solely because funding was commercial",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-3 Examine how interests were managed and how options and evidence were selected",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-3 Replace the guideline with an unfunded expert's personal preference",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-3 Assess only the trial effect sizes and omit development methods",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-010-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-010-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-010-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-010-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-010-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-010-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-5 The number of hospitals that downloaded the guideline",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-5 Feasible alternatives and the patient's acceptable benefit-burden trade-off",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-5 A longer account of the disease's molecular pathway",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-5 A more precise ranking of the guideline's publication impact",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-010-5 The percentage of panel members agreeing with the recommendation",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-011-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-011-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-011-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-1 The cheaper treatment must have a higher cost per successful outcome",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-1 A randomised trial cannot supply economic information",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-1 The analysis must exclude all patient-incurred costs",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-1 The comparison should be based on average purchase price alone",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-1 Outcome equivalence has not been established for a cost-only comparison",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-011-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-011-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-011-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-2 The perspectives should be averaged to obtain a neutral conclusion",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-2 The difference proves that the intervention's clinical effect changed",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-2 The second analysis has corrected an error merely by adding more costs",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-2 The health-service analysis is invalid because patients experience indirect costs",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-2 The analyses may differ because they count different categories of consequences",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-011-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-011-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-011-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-3 The most favourable assumption should determine the funded option",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-3 The model should report only costs because benefits are uncertain",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-3 The central result is invalid because alternative inputs change it",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-3 The shorter duration should replace all other assumptions as a conservative rule",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-3 The preferred option depends materially on an uncertain duration assumption",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-011-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-011-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-011-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-011-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-011-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-011-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-5 £4,000",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-5 £24,000",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-5 £1,333",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-5 £1,500",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-011-5 £200",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-012-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-012-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-012-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-1 Whether non-users were excluded to reduce variation in the interviews",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-1 Whether the sample size guarantees a narrow prevalence interval",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-1 Whether the selected experiences can illuminate the explanatory question",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-1 Whether every service user had the same probability of selection",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-1 Whether the sample reproduces the age distribution of current attenders exactly",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-012-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-012-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-012-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-2 Examine the contradictory accounts and revise or qualify the explanation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-2 Add more quotations from the most articulate supporting participants",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-2 Convert the supporting quotations into a percentage without revisiting the theory",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-2 Remove the accounts if the majority support the theory",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-2 Report that the software assigned the same theme to every interview",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-012-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-012-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-012-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-3 The study is equivalent to a blinded treatment comparison",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-3 The sample has become statistically representative of the service population",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-3 The interview data can now be interpreted without considering context",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-3 The researcher's influence is made available for critical interpretation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-3 The researcher has demonstrated the absence of all perspective effects",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-012-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-012-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-012-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-012-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-012-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-012-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-5 How many words the quotations occupied in the results",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-5 How the researchers developed and tested their interpretations",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-5 Whether another commercial package would produce identical themes",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-5 Which operating system ran the qualitative software",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-012-5 Whether each quoted participant completed a numerical satisfaction scale",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-013-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-013-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-013-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-1 Both properties are established if the mean score is high",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-1 Validity is established because a stable score is unlikely to be random",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-1 Neither property can be discussed until a randomised trial is completed",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-1 Reliability is absent because effectiveness and convenience differ",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-1 Repeatability is supported, while validity for the claimed construct remains doubtful",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-013-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-013-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-013-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-2 Morning attenders with more than one long-term condition",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-2 Registered patients unable to attend during morning hours",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-2 Morning attenders who report using online booking",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-2 Attenders who completed the survey on a different day that week",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-2 Morning attenders who have previously completed another survey",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-013-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-013-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-013-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-3 That the original questionnaire had ever been published",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-3 That using an existing name makes repeat validation unnecessary",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-3 That a larger mailing list restores the original instrument's validity",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-3 That the adapted version measures the intended construct in the new use",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-3 That all responses should be analysed as continuous values",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-013-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-013-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-013-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-013-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-013-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-013-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-5 Assess how access-related non-response could change the represented groups",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-5 Pool because each clinic issued the same number of invitations",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-5 Weight each observed score only by the number of invitation emails",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-5 Use only the clinic with the larger response rate to estimate both clinics",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-013-5 Treat the two response means as equally representative because both exceed 50 replies",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-014-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-014-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-014-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-1 The pathway caused the whole reduction because it preceded measurement",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-1 The improvement occurred alongside several changes; attribution to the pathway is uncertain",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-1 The reduction is a measurement artefact because services changed",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-1 The pathway had no effect because another change occurred",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-1 The discharge lounge caused the whole reduction because it is a simpler explanation",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-014-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-014-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-014-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-2 Select whichever measure improves most after implementation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-2 Add a longer description of the pathway's theoretical rationale",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-2 Increase the number of staff trained before defining success",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-2 Specify the relevant outcome and how change will be measured",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-2 Count publication submissions as the main patient-care outcome",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-014-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-014-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-014-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-3 How the effect estimate changes when expressed on another valid outcome scale",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-3 How local staff modified delivery and which barriers affected the intended mechanism",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-3 How many participants in the report had complete outcome measurements",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-3 How the reported baseline outcome rate compares with the national average",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-3 How the original outcome threshold compares with thresholds in a clinical guideline",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-014-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-014-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-014-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-014-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-014-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-014-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-5 A second local analysis restricted to staff who supported the pathway",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-5 A precise explanation of the observed outcome difference on the same local data",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-5 An endorsement of the pathway by the original project steering group",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-5 A count of implementation meetings held before the pathway started",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-014-5 A reasoned account of the mechanism, context and conditions for adaptation",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-015-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-015-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-015-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-1 The same SNP having a smaller p-value in the original sample",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-1 The disease having a high heritability estimate in another population",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-1 The associated region containing several additional correlated SNPs",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-1 The SNP appearing in a more widely used genotyping panel",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-1 Functional evidence linking the variant to the relevant disease pathway",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-015-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-015-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-015-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-2 Whether the laboratory platform can process additional variants",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-2 Whether the abstract reports the largest effect first",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-2 Whether the reported effect is expressed as an odds ratio",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-2 Whether disease severity is normally distributed among cases",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-2 Whether population differences account for the allele-frequency contrast",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-015-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-015-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-015-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-3 The two estimates establish a change in the variant's biological action",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-3 The replication establishes that the variant is unrelated to disease",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-3 Selection on significance may have inflated the discovery estimate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-3 The initial threshold should determine which estimate is retained",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-3 The discovery effect should be used because it has greater clinical relevance",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-015-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-015-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-015-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-015-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-015-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-015-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-5 The relative frequency of the variant among all laboratory samples",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-5 Absolute risk and validated predictive performance in the relevant population",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-5 Whether the association remains significant after multiple-testing correction",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-5 Whether the carrier has other SNPs measured by the same commercial panel",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-015-5 Whether the association was observed using two genotyping platforms",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-016-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-016-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-016-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-1 Ask the patient to return after choosing independently",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-1 Use the guideline's default option without exploring preferences",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-1 Repeat the same probabilities using a second decision leaflet",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-1 Explore which outcomes and burdens matter, then deliberate together",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-1 Rank the options by the clinician's preferred average outcome",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-016-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-016-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-016-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-2 The grid converts preference into a population efficacy estimate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-2 The grid supports option talk rather than functioning only as a document",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-2 The grid establishes that the chosen option is equally suitable for everyone",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-2 The grid removes the need for clinical judgement",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-2 The grid contains a different number of printed outcomes",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-016-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-016-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-016-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-3 Average the two scales without checking their meaning",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-3 Conclude that the patient scale is unreliable because it disagrees",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-3 Conclude that surgery had no effect on any outcome",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-3 Check what each measure captures and how the outcomes matter to patients",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-3 Replace patient scores with surgeon ratings to preserve a single outcome",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-016-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-016-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-016-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-016-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-016-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-016-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-5 Whether the observed improvement estimates the average population effect",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-5 Whether the preferred treatment's packaging can be changed",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-5 Whether repeated measures are unnecessary once one phase improves",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-5 Whether the participant's preference should be recoded as treatment failure",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-016-5 The trade-off between completing the comparison and the participant's willingness to continue",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-017-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-017-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-017-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-1 A higher average score across unrelated prediction tasks",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-1 A benchmark against a different algorithm using the original dataset",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-1 Evaluation of the system with the intended patients, users and workflow",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-1 A more detailed description of the model's architecture alone",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-1 A larger retrospective sample from the original hospital",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-017-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-017-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-017-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-2 A second headline metric without data-processing details",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-2 The same performance score calculated to more decimal places",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-2 A list of the authors' previous model publications",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-2 A different graphical presentation of the aggregate score",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-2 A reproducible account of input acquisition and processing",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-017-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-017-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-017-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-3 Use the original benchmark score as the sole safety indicator",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-3 Apply the early safety conclusion unchanged to the modified system",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-3 Wait for a statistically significant harm signal before recording incidents",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-3 Treat every performance update as evidence of improved patient safety",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-3 Reassess risks and monitor observed harms as the system is used",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-017-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-017-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-017-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-017-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-017-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-017-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-5 Average computation time on two generations of the same hardware",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-5 Parameter counts across the new and previous versions of the architecture",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-5 Classification accuracy against another model on the same image collection",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-5 Clinical consequences with the AI system versus current practice in its intended role",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-017-5 Performance scores on alternative partitions of the development dataset",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-018-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-018-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-018-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-1 The growth outcome should be replaced retrospectively by meal delivery",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-1 The intended nutritional exposure may not have occurred adequately",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-1 Balanced meals cannot improve growth in this age group",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-1 The observations should be excluded because they are non-randomised",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-1 Meal rejection proves that a culturally adapted programme would be effective",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-018-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-018-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-018-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-2 Treat the study count as the main indication of a complete mechanism",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-2 Retain the final-stage result and omit intermediate steps",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-2 Choose the mechanism with the most detailed diagram",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-2 Examine the missing link rather than simply counting supporting studies",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-2 Conclude that any missing link disproves the observed outcome",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-018-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-018-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-018-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-3 Judge how the two evidence types jointly support the causal and effect claims",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-3 Use the laboratory finding as a replacement estimate of clinical benefit",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-3 Average the trial effect with a mechanistic grading score",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-3 Treat the trial as a complete explanation of how the effect occurred",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-3 Discard the laboratory work because only allocation establishes any causality",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-018-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-018-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-018-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-018-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-018-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-018-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-5 The trial estimates the effect of the behaviour without dilution",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-5 The behaviour would benefit exactly the 25% who adopted it",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-5 The result demonstrates that advice cannot change behaviour",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-5 Offering that advice under those conditions showed no clear benefit",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-018-5 Performing the behaviour consistently has been shown ineffective",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-019-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-019-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-019-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-1 Whether relevant clinical and lived-experience perspectives were represented",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-1 Whether the final threshold is stricter than thresholds in previous panels",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-1 Whether the panel met in person rather than online",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-1 Whether the final statements are more concise than the initial statements",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-1 Whether the same group would reach agreement after one additional round",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-019-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-019-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-019-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-2 The decision rule has been altered in response to the desired findings",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-2 The final round should be weighted more heavily because it followed feedback",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-2 The lowest observed agreement should define the threshold for every statement",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-2 The additional accepted statements establish that the lower threshold was more valid",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-2 The initial threshold should be replaced by the panel median agreement",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-019-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-019-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-019-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-3 A final public vote in which each member states a position aloud",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-3 A single initial lecture delivered by the panel chair",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-3 A larger in-person audience for the same open discussion",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-3 Anonymous ratings with structured feedback between rounds",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-3 Immediate discussion until a unanimous show of hands is reached",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-019-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-019-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-019-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-019-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-019-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-019-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-5 Whether the chosen threshold was below 75%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-5 Whether the same percentage was reported before and after rounding",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-5 Only whether the mean agreement percentage remained 75%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-5 Whether agreement was calculated after excluding the most variable respondents",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-019-5 Participant-level response changes and the pattern of persistent disagreement",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-020-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-020-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-020-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-1 That trial evidence can never inform resource allocation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-1 That all conditions without trials have effective untested treatments",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-1 That publication volume is unrelated to any scientific activity",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-1 That the distribution of published research mirrors the distribution of patient need",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-1 That the RCTs necessarily have poor internal validity",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-020-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-020-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-020-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-2 Use the policy with the narrower confidence interval",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-2 Select the policy whose evidence summary includes more primary studies",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-2 Make the competing distributional values and priorities explicit",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-2 Replace both estimates with the largest single trial",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-2 Repeat the same effect calculation with more decimal places",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-020-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-020-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-020-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-3 Use the model's uncertainty interval to decide how much burden matters",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-3 Discard all quantitative evidence from the consultation",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-3 Examine the omitted burdens and how they change the person's trade-offs",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-3 Convert the patient's account into the model's existing score without checking fit",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-3 Treat the model's preferred option as a complete account of the patient's values",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-020-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-020-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-020-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-020-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-020-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-020-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-5 Count only how many prompts were displayed correctly",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-5 Rank prompts by the number of references in their source documents",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-5 Assess its effects within the consultation, including displaced priorities and burden",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-5 Use the highest-quality source behind any single prompt",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-020-5 Assume the strategy is useful whenever most prompts are acknowledged",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-021-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-021-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-021-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-1 A good checklist score establishes an identical effect in the new population",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-1 Internal strengths can coexist with an unresolved applicability question",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-1 The checklist should omit population criteria once randomisation is adequate",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-1 Population differences invalidate every internal methods finding",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-1 The outcome must be reclassified as unreliable because populations differ",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-021-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-021-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-021-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-2 Replace each intervention name with a broad class label before pooling",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-2 Pool only the studies with individually significant effects",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-2 Use the largest effect as the summary for all interventions",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-2 Record that reasonable identification does not establish reasonable pooling",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-2 Mark the review complete because every eligible paper was retrieved",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-021-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-021-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-021-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-3 Replace the aid with the clinician's ranking of the options",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-3 Present comparable options and trade-offs with uncertainty and preference support",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-3 Add more testimonials supporting the preferred option",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-3 Increase the precision of the favourable probability alone",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-3 Add the names of more endorsing organisations",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-021-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-021-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-021-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-021-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-021-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-021-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-5 Choose the outcome with the lowest reported p-value",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-5 Repeat the appraisal using a different risk-of-bias checklist",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-5 Check whether a second study reports a more precise estimate of the same outcome",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-5 Clarify the person's decision and whether the study addresses it",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-021-5 Calculate a second effect measure from the same outcome",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-022-1",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-022-1",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-022-1",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-1 ARR is 10 percentage points and relative risk is 1.5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-1 ARR is 15 percentage points and relative risk is 0.50",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-1 ARR is 5 percentage points and relative risk is about 0.67",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-1 ARR is 5% and relative risk reduction is 5%",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-1 ARR is 33 percentage points and relative risk is about 0.67",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-022-2",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-022-2",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-022-2",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-2 25",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-2 40",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-2 400",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-2 4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-2 0.4",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-022-3",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-022-3",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-022-3",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-3 1 divided by (0.40 − 0.60), giving −5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-3 0.60 divided by 0.40, giving 1.5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-3 1 divided by (0.60 − 0.40), giving 5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-3 1 divided by 0.40, giving 2.5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-3 1 divided by 0.60, giving about 1.67",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-022-4",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-022-4",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-022-4",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-4 Both A and R are true, and R correctly explains A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-4 Both A and R are true, but R does not correctly explain A.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-4 A is true, but R is false.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-4 A is false, but R is true.",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-4 Both A and R are false.",
+      "passed": true
+    },
+    {
+      "name": "Answer/options q-022-5",
+      "passed": true
+    },
+    {
+      "name": "Distractor notes q-022-5",
+      "passed": true
+    },
+    {
+      "name": "Blind source title q-022-5",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-5 X has ARR 0; Y has ARR 0.10",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-5 Both have ARR 0 because the treated counts are identical",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-5 Both have ARR 0.10 because each has ten fewer treated events",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-5 X has ARR 0.05; Y has ARR 0.10",
+      "passed": true
+    },
+    {
+      "name": "Option evidence q-022-5 X has ARR 0.10; Y has ARR 0.20",
+      "passed": true
+    },
+    {
+      "name": "No study meta boilerplate",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch001_p0022_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0037.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch003_p0050_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch003_p0053_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch003_p0055_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch003_p0055_02.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0069.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0088.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch005_p0083_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch005_p0084_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch005_p0094_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch006_p0103_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch006_p0108_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch007_p0120_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0140.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0132.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0131.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch008_p0142_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0162.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0160.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0157.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch009_p0149_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch009_p0152_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch009_p0155_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch010_p0171_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch010_p0172_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch010_p0174_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch010_p0175_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch010_p0176_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0242.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch015_p0242_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch015_p0242_02.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0264.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0261.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch016_p0260_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch016_p0261_204.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch017_p0277_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset figures/ch019_p0300_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0020.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0021.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0022.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0023.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0024.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0025.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0026.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0027.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0028.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0029.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0030.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0031.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0032.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch001_page0033.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0034.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0035.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0036.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0037.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0038.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0039.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0040.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0041.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0042.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0043.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0044.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0045.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0046.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0047.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch002_page0048.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0049.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0050.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0051.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0052.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0053.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0054.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0055.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0056.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0057.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0058.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0059.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0060.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0061.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0062.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch003_page0063.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0064.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0065.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0066.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0067.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0068.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0069.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0070.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0071.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0072.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0073.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0074.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0075.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0076.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0077.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0078.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0079.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0080.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch004_page0081.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0082.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0083.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0084.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0085.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0086.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0087.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0088.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0089.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0090.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0091.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0092.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0093.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0094.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0095.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0096.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0097.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0098.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0099.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch005_page0100.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0101.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0102.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0103.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0104.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0105.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0106.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0107.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0108.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0109.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0110.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0111.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0112.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0113.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0114.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0115.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0116.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch006_page0117.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0118.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0119.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0120.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0121.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0122.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0123.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0124.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0125.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0126.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch007_page0127.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_p0131_1.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_p0132_1.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0128.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0129.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0130.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0131.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0132.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0133.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0134.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0135.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0136.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0137.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0138.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0139.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0140.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0141.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0142.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0143.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0144.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0145.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch008_page0146.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0147.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0148.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0149.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0150.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0151.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0152.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0153.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0154.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0155.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0156.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0157.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0158.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0159.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0160.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0161.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0162.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0163.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0164.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0165.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0166.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0167.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0168.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch009_page0169.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0170.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0171.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0172.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0173.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0174.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0175.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0176.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0177.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0178.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0179.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0180.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0181.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch010_page0182.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0183.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0184.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0185.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0186.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0187.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0188.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0189.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0190.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0191.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0192.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0193.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0194.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0195.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0196.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch011_page0197.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0198.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0199.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0200.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0201.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0202.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0203.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0204.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0205.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0206.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0207.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0208.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0209.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0210.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0211.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0212.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch012_page0213.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0214.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0215.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0216.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0217.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0218.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0219.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0220.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0221.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0222.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0223.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0224.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0225.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch013_page0226.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0227.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0228.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0229.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0230.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0231.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0232.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0233.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0234.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0235.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0236.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0237.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch014_page0238.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0239.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0240.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0241.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0242.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0243.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0244.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0245.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0246.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0247.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0248.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0249.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0250.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0251.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0252.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0253.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0254.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch015_page0255.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0256.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0257.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0258.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0259.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0260.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0261.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0262.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0263.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0264.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0265.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0266.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch016_page0267.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0268.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0269.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0270.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0271.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0272.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0273.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0274.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0275.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0276.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0277.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0278.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0279.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0280.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0281.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0282.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0283.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0284.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0285.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch017_page0286.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0287.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0288.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0289.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0290.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0291.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0292.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0293.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0294.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0295.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch018_page0296.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0297.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0298.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0299.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0300.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0301.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0302.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0303.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0304.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0305.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0306.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0307.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0308.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0309.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0310.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch019_page0311.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0312.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0313.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0314.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0315.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0316.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0317.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0318.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0319.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0320.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0321.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch020_page0322.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0323.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0324.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0325.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0326.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0327.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0328.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0329.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0330.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0331.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0332.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0333.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch021_page0334.jpg",
+      "passed": true
+    },
+    {
+      "name": "Asset tables/ch022_page0335.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/001.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/002.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/003.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/004.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/005.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/006.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/007.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/008.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/009.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/010.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/011.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/012.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/013.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/014.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/015.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/016.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/017.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/018.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/019.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/020.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/021.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link index.md wiki/chapters/022.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\001.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\001.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\001.md ../../figures/ch001_p0022_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\002.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\002.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\003.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\003.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\003.md ../../figures/ch003_p0050_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\003.md ../../figures/ch003_p0053_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\003.md ../../figures/ch003_p0055_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\003.md ../../figures/ch003_p0055_02.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\004.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\004.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\005.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\005.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\005.md ../../figures/ch005_p0083_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\005.md ../../figures/ch005_p0084_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\005.md ../../figures/ch005_p0094_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\006.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\006.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\006.md ../../figures/ch006_p0103_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\006.md ../../figures/ch006_p0108_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\007.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\007.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\007.md ../../figures/ch007_p0120_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\008.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\008.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\008.md ../../tables/ch008_p0131_1.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\008.md ../../tables/ch008_p0132_1.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\008.md ../../figures/ch008_p0142_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\009.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\009.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\009.md ../../figures/ch009_p0149_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\009.md ../../figures/ch009_p0152_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\009.md ../../figures/ch009_p0155_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../figures/ch010_p0171_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../figures/ch010_p0172_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../figures/ch010_p0174_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../figures/ch010_p0175_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\010.md ../../figures/ch010_p0176_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\011.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\011.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\012.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\012.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\013.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\013.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\014.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\014.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\015.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\015.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\015.md ../../figures/ch015_p0242_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\015.md ../../figures/ch015_p0242_02.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\016.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\016.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\016.md ../../figures/ch016_p0260_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\016.md ../../figures/ch016_p0261_204.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\017.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\017.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\017.md ../../figures/ch017_p0277_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\018.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\018.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\019.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\019.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\019.md ../../figures/ch019_p0300_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\020.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\020.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\021.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\021.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\022.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link wiki\\chapters\\022.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\001.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\001.md ../../figures/ch001_p0022_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\002.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\003.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\003.md ../../figures/ch003_p0050_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\003.md ../../figures/ch003_p0053_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\003.md ../../figures/ch003_p0055_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\003.md ../../figures/ch003_p0055_02.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\004.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\005.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\005.md ../../figures/ch005_p0083_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\005.md ../../figures/ch005_p0084_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\005.md ../../figures/ch005_p0094_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\006.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\006.md ../../figures/ch006_p0103_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\006.md ../../figures/ch006_p0108_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\007.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\007.md ../../figures/ch007_p0120_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\008.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\008.md ../../tables/ch008_p0131_1.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\008.md ../../tables/ch008_p0132_1.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\008.md ../../figures/ch008_p0142_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\009.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\009.md ../../figures/ch009_p0149_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\009.md ../../figures/ch009_p0152_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\009.md ../../figures/ch009_p0155_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\010.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\010.md ../../figures/ch010_p0171_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\010.md ../../figures/ch010_p0172_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\010.md ../../figures/ch010_p0174_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\010.md ../../figures/ch010_p0175_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\010.md ../../figures/ch010_p0176_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\011.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\012.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\013.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\014.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\015.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\015.md ../../figures/ch015_p0242_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\015.md ../../figures/ch015_p0242_02.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\016.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\016.md ../../figures/ch016_p0260_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\016.md ../../figures/ch016_p0261_204.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\017.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\017.md ../../figures/ch017_p0277_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\018.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\019.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\019.md ../../figures/ch019_p0300_01.jpg",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\020.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\021.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "Markdown link raw\\chapters\\022.md ../../SOURCE_CREDITS.md",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/course.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/app.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/guided-data.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/guided.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/capstone.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/ai-lab-data.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/ai-lab.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/experience.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/assessment-data.js",
+      "passed": true
+    },
+    {
+      "name": "HTML script data/assessment.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ai-lab-data.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ai-lab.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax app.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax assessment-data.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax assessment.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax capstone.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax course.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax experience.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax guided-data.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax guided.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_001.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_002.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_003.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_004.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_005.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_006.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_007.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_008.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_009.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_010.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_011.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_012.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_013.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_014.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_015.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_016.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_017.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_018.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_019.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_020.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_021.js",
+      "passed": true
+    },
+    {
+      "name": "JS syntax ch_022.js",
+      "passed": true
+    },
+    {
+      "name": "Full-depth minimums",
+      "passed": true
+    }
+  ],
+  "metrics": {
+    "chapters": 22,
+    "figures": 38,
+    "matched_captions": 15,
+    "tables": 2,
+    "flashcards": 132,
+    "mcqs": 110,
+    "authored_mcqs": 110,
+    "treatment_records": 132,
+    "depth_gap_chapters": 0
+  }
+}
